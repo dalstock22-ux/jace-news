@@ -56,7 +56,7 @@ BAD = re.compile(r"\b(horoscope|recipe|celebrity|royal|kardashian|nfl|nba|mlb|so
                  r"grammy|sponsored|coupon|black friday|cyber monday|parenting|should (i|we)|my (wife|husband)|"
                  r"retirement|401\(k\)|annuity|social security|medicare|tennis|marries|dies aged|columnist|"
                  r"killed|murder|shooting|stabbing|crypto\w*|bitcoin|quiz|podcast|theft|thieves|stolen|steal\w*|"
-                 r"vandal\w*|poison\w*|police|council|planning|obituary)\b|^(watch|live|listen)\b", re.I)
+                 r"vandal\w*|poison\w*|police|council|planning|obituary|fire|blaze|firefighters|explosion|injured|dead|death|court|jailed)\b|^(watch|live|listen)\b", re.I)
 # a metals headline must also be about the market, not a local story that only mentions the metal
 MARKET = re.compile(r"\b(prices?|markets?|lme|comex|tariffs?|demand|supply|exports?|imports?|output|production|smelt\w*|"
                     r"stocks|stockpiles?|inventor(y|ies)|rall\w*|slides?|falls?|rises?|surg\w*|slump\w*|deficit|surplus|"
@@ -105,6 +105,7 @@ def collect() -> tuple[list[dict], list[str]]:
                 source = clean(tag(b, "source"), 40)
                 if source and title.endswith(" - " + source):
                     title = title[: -len(source) - 3].strip()
+                source = re.split(r"\s+[-|]\s+", source)[0].strip()  # "Outlet - Country News" -> "Outlet"
             title = re.sub(r"^\((Yonhap|LEAD|URGENT)[^)]*\)\s*", "", title)
             if re.search(r"[^ -\u024f\u2013\u2014\u2018-\u201f\u00a3\u20ac]", source + title):
                 continue  # English-language outlets only
