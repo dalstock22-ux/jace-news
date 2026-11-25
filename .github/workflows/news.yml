@@ -1,0 +1,30 @@
+name: news
+on:
+  schedule:
+    - cron: "41 * * * *"   # every hour (scheduled runs can be late or skipped, so hourly keeps it fresh)
+  workflow_dispatch: {}
+permissions:
+  contents: write
+concurrency:
+  group: news
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Update news.json
+        env:
+          PYTHONIOENCODING: utf-8
+        run: python scripts/jace_news.py
+      - name: Commit when changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add news.json ko_cache.json
+          if git diff --cached --quiet; then echo "no change"; exit 0; fi
+          git commit -m "news $(TZ=Asia/Seoul date '+%Y-%m-%d %H:%M')"
+          git push origin HEAD:main
