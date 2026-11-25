@@ -56,12 +56,13 @@ BAD = re.compile(r"\b(horoscope|recipe|celebrity|royal|kardashian|nfl|nba|mlb|so
                  r"grammy|sponsored|coupon|black friday|cyber monday|parenting|should (i|we)|my (wife|husband)|"
                  r"retirement|401\(k\)|annuity|social security|medicare|tennis|marries|dies aged|columnist|"
                  r"killed|murder|shooting|stabbing|crypto\w*|bitcoin|quiz|podcast|theft|thieves|stolen|steal\w*|"
-                 r"vandal\w*|poison\w*|police|council|planning|obituary|fire|blaze|firefighters|explosion|injured|dead|death|court|jailed)\b|^(watch|live|listen)\b", re.I)
+                 r"vandal\w*|poison\w*|police|council|planning|obituary|soldiers?|remains of|funeral|fire|blaze|firefighters|explosion|injured|dead|death|court|jailed)\b|^(watch|live|listen)\b", re.I)
 # a metals headline must also be about the market, not a local story that only mentions the metal
 MARKET = re.compile(r"\b(prices?|markets?|lme|comex|tariffs?|demand|supply|exports?|imports?|output|production|smelt\w*|"
                     r"stocks|stockpiles?|inventor(y|ies)|rall\w*|slides?|falls?|rises?|surg\w*|slump\w*|deficit|surplus|"
                     r"premiums?|trade\w*|traders?|futures|year-(high|low)|mine|miners?|recycl\w*|plant|capacity)\b", re.I)
-MAX_ITEMS = 24
+MAX_ITEMS = 24   # world news band
+MAX_METALS = 10  # metals / scrap headlines for the site's "Latest" ticker
 MAX_AGE_H = 48
 CTRL = re.compile(r"[\x00-\x08\x0b\x0c\x0e-\x1f\x7f]")
 
@@ -106,6 +107,7 @@ def collect() -> tuple[list[dict], list[str]]:
                 if source and title.endswith(" - " + source):
                     title = title[: -len(source) - 3].strip()
                 source = re.split(r"\s+[-|]\s+", source)[0].strip()  # "Outlet - Country News" -> "Outlet"
+                source = re.sub(r"^https?://(www\.)?|/+$", "", source)  # bare URL as the outlet -> domain
             title = re.sub(r"^\((Yonhap|LEAD|URGENT)[^)]*\)\s*", "", title)
             if re.search(r"[^ -\u024f\u2013\u2014\u2018-\u201f\u00a3\u20ac]", source + title):
                 continue  # English-language outlets only
@@ -116,6 +118,9 @@ def collect() -> tuple[list[dict], list[str]]:
             title = title[:160]
             if len(title) < 25 or not wanted(title, mode):
                 continue
+            letters = re.sub(r"[^A-Za-z]", "", title)
+            if letters and sum(c.isupper() for c in letters) > 0.7 * len(letters):
+                continue  # all-caps titles are company press releases, not news
             link = link.replace("http://", "https://", 1).split("?at_medium")[0]
             try:
                 ts = parsedate_to_datetime(tag(b, "pubDate")).astimezone(timezone.utc)
@@ -127,22 +132,28 @@ def collect() -> tuple[list[dict], list[str]]:
                 continue
             rows.append({"s": source, "t": title, "u": link, "ts": ts.timestamp() if ts else 0, "m": mode == "metals"})
         per.append(sorted(rows, key=lambda r: r["ts"], reverse=True))
-    # take from each feed in turn so no single outlet fills the band; metals feeds come first in FEEDS
-    out, seen_u, seen_t = [], set(), set()
-    i = 0
-    while len(out) < MAX_ITEMS and any(i < len(p) for p in per):
-        for p in per:
-            # the metals search feeds give two items per round, the others one
-            take = p[2 * i: 2 * i + 2] if p and p[0]["m"] else p[i: i + 1]
-            for r in take:
-                if len(out) >= MAX_ITEMS:
-                    break
-                k = re.sub(r"\W+", "", r["t"].lower())[:40]
-                if r["u"] in seen_u or k in seen_t:
-                    continue
-                seen_u.add(r["u"]); seen_t.add(k); out.append(r)
-        i += 1
-    return out, errors
+    seen_u, seen_t = set(), set()
+
+    def pick(feeds: list[list[dict]], limit: int, step: int) -> list[dict]:
+        # take from each feed in turn so no single outlet fills the band
+        out, i = [], 0
+        while len(out) < limit and any(step * i < len(p) for p in feeds):
+            for p in feeds:
+                for r in p[step * i: step * i + step]:
+                    if len(out) >= limit:
+                        break
+                    k = re.sub(r"\W+", "", r["t"].lower())[:40]
+                    if r["u"] in seen_u or k in seen_t:
+                        continue
+                    seen_u.add(r["u"]); seen_t.add(k); out.append(r)
+            i += 1
+        return out
+
+    # metals and scrap headlines go to the site's "Latest" ticker (newest first), the rest to the world news band,
+    # and no headline appears in both
+    metals = sorted(pick([p for p in per if p and p[0]["m"]], MAX_METALS, 2), key=lambda r: r["ts"], reverse=True)
+    world = pick([p for p in per if p and not p[0]["m"]], MAX_ITEMS, 1)
+    return world, metals, errors
 
 
 def translate(text: str) -> str:
@@ -188,25 +199,37 @@ def main(argv: list[str]) -> int:
     out_path = os.path.join(ROOT, "news.json")
     if "--out" in argv:
         out_path = argv[argv.index("--out") + 1]
-    items, errors = collect()
+    items, metals, errors = collect()
     for e in errors:
         print("feed error:", e)
     if len(items) < 6:
         print(f"FAIL only {len(items)} headlines, news.json left as it is")
         return 1
-    ko = {} if dry else korean(items)
+    ko = {} if dry else korean(items + metals)
+
+    def row(r: dict, dated: bool = False) -> dict:
+        d = {"s": r["s"], "t": r["t"], "u": r["u"]}
+        if r["u"] in ko:
+            d["k"] = ko[r["u"]]
+        if dated and r["ts"]:
+            d["d"] = datetime.fromtimestamp(r["ts"], KST).date().isoformat()
+        return d
+
     data = {
         "updated": datetime.now(KST).isoformat(timespec="minutes"),
-        "items": [dict({"s": r["s"], "t": r["t"], "u": r["u"]}, **({"k": ko[r["u"]]} if r["u"] in ko else {}))
-                  for r in items],
+        "items": [row(r) for r in items],      # world news band
+        "metals": [row(r, True) for r in metals],  # "Latest" ticker: metals and scrap headlines
     }
     if dry:
-        for r in data["items"]:
-            print(f'{r["s"]:<22} {r["t"]}')
+        for name in ("items", "metals"):
+            print(f"--- {name}")
+            for r in data[name]:
+                print(f'{r["s"]:<22} {r.get("d", ""):<11} {r["t"]}')
         return 0
     with open(out_path, "w", encoding="utf-8", newline="\n") as f:
         json.dump(data, f, ensure_ascii=False, indent=1)
-    print(f"OK {len(items)} headlines ({sum('k' in r for r in data['items'])} in Korean) -> {out_path}")
+    n_ko = sum("k" in r for r in data["items"] + data["metals"])
+    print(f"OK {len(items)} world + {len(metals)} metals headlines ({n_ko} in Korean) -> {out_path}")
     return 0
 
 
