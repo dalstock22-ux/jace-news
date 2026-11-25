@@ -1,35 +1,11 @@
 {
- "updated": "2026-11-25T19:15+09:00",
+ "updated": "2026-11-25T23:20+09:00",
  "items": [
   {
-   "s": "Arabian Gulf Business Insight",
-   "t": "Gold and Dr Copper fall victim to global market contagion",
-   "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM0hMTHpPREtSN0g3RC1aaXJUODFFLXRvVzVZUVhPZkp3ckdpc1A2eWFJbk1TWm9xOVpLZHdqOGhKdzhibFVlMXJTbEZaaS1GMVduWVBlMTdfYnlsRFE2Y2FVRS04aldnYThVOHNsYzhaU1NOWV9nZy10UzdYZTNnV0E1Q2ZZQWtrZXZySHRfMUZvSVQ5dW9LQmZzR3QwSDdHbmJjQzBR?oc=5",
-   "k": "금과 '닥터 구리'가 글로벌 시장의 전염에 희생당하다"
-  },
-  {
-   "s": "BigGo Finance",
-   "t": "Copper Falls Below $12,000 a Ton as AI Stock Selloff and Rate-Hike Bets Weigh",
-   "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xOVNCTlFOYWZ6dHpoempUUk96RzNGNkU3d2NHN28wWlFoZENHcWxTNmdnNGZ4SXJsZGh4Z2NKWXd2S00xYXppMzc1Y2dkcmtOWFI3NTc1OFIzaTh1TGdLcHpFWDM2Vk1uQ1RtX3FUZy1GUE1qNFE?oc=5",
-   "k": "AI 주식 매도세와 금리 인상 전망이 부담으로 작용하며 구리 가격이 톤당 12,000달러 아래로 하락"
-  },
-  {
-   "s": "HESPRESS English",
-   "t": "Morocco proposes independent audits to preserve EU scrap metal imports",
-   "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUUlCNXBZQVZTODNhRUZ3WGZwNDlUZWEzTXhScFFFaGtrRVVSancyUlRLVDlTWHVzdl9ObUZ4S3dvYWFtU3ZDN2d1ckw1VmJTX1BleWYzRWNDWGpwZVVsT2llM0tiWkhLWmhDNWtldDhfR0ZZTGZ1LTh2UC1TZDRaTjQyRHZKazNIbEdVRjZHak5zV0VLVkFZMnR4bTAyRTM4THVGd0JmMjhkUQ?oc=5",
-   "k": "모로코, EU 고철 수입을 유지하기 위한 독립 감사 제안"
-  },
-  {
-   "s": "Metal Tech News",
-   "t": "RZOLV takes metal recycling tech to France",
-   "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNS1phbU9yZVBYNHp5SXhBaUFLdEZvNVB2ZjN6VklJaWRmWjhqVnZaczNRWTJWeWhuTzIySmlKbHdxSkRFQkNZT01qMzNDZXpSMjV5X1pxcnY3S3Fod2QwTEJZMlN3UUw0eGlHc0lqdDN6V05TV2lwQ2l4bXk0QlJJczNUS0hqRkY0SDRPUVZmODNISC1YLWZiYTF6Uy1vWWZEQlBETW1RVXJFRVJKVS12aw?oc=5",
-   "k": "RZOLV, 프랑스에 금속 재활용 기술 도입"
-  },
-  {
    "s": "BBC",
-   "t": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
-   "u": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o",
-   "k": "'저는 일요일에만 세탁기를 사용합니다' - 에너지 비용을 절감하는 방법"
+   "t": "US announces new tariffs on host of countries including China",
+   "u": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o",
+   "k": "미국, 중국을 포함한 여러 국가에 대한 새로운 관세 부과 발표"
   },
   {
    "s": "CNBC",
@@ -39,15 +15,15 @@
   },
   {
    "s": "Guardian",
-   "t": "EU to impose cap on Chinese hybrid EV imports next month",
-   "u": "https://www.theguardian.com/business/2026/nov/24/eu-cap-chinese-hybrid-ev-imports-tariff-uk",
-   "k": "EU, 다음 달 중국산 하이브리드 전기차 수입에 상한선 설정 예정"
+   "t": "US proposes new tariffs on 14 trading partners, including China, Japan and the EU – business live",
+   "u": "https://www.theguardian.com/business/live/2026/nov/25/rise-energy-bills-britain-2166-impossible-high-millions-households-stocks-tumble-as-ai-rally-fizzles-live-updates",
+   "k": "영국의 에너지 요금, 2,166파운드로 인상... 수백만 가구에 '감당할 수 없는 높은 수준' – 비즈니스 라이브"
   },
   {
    "s": "MarketWatch",
-   "t": "This strategist’s bond-trading model is outperforming by a wide margin. The Fed slowing the economy is a good thing, he argues",
-   "u": "https://www.marketwatch.com/story/this-strategists-bond-trading-model-is-outperforming-by-a-wide-margin-the-fed-slowing-the-economy-is-a-good-thing-he-argues-f39dfc5f?mod=mw_rss_topstories",
-   "k": "이 전략가의 채권 거래 모델은 다른 모델을 크게 앞서고 있습니다. 그는 연준이 경기를 둔화시키는 것이 좋은 일이라고 주장합니다."
+   "t": "U.S. proposes fresh tariffs on China and others as Trump doubles down on his favorite trade weapon",
+   "u": "https://www.marketwatch.com/story/u-s-proposes-fresh-tariffs-on-china-others-as-trump-doubles-down-on-his-favorite-trade-weapon-cd9a1df9?mod=mw_rss_topstories",
+   "k": "미국, 중국 및 기타 국가에 대한 새로운 관세 부과 제안. 트럼프 대통령, 자신이 선호하는 무역 수단을 더욱 강화"
   },
   {
    "s": "DW",
@@ -69,45 +45,27 @@
   },
   {
    "s": "Korea Herald",
-   "t": "AmCham hosts Korea-US AI talks with Apple, AWS and Qualcomm",
-   "u": "https://www.koreaherald.com/article/10949349",
-   "k": "AmCham, 애플, AWS, 퀄컴과 한-미 AI 회담 개최"
+   "t": "Korea to retain 15% tariff cap under new US tariff proposal",
+   "u": "https://www.koreaherald.com/article/10949511",
+   "k": "한국, 미국의 새로운 관세 제안에 따라 15% 관세 상한 유지"
   },
   {
    "s": "SCMP",
-   "t": "China’s K-shaped economy better for mainland markets than Hong Kong stocks: UBS",
-   "u": "https://www.scmp.com/business/markets/article/3375763/chinas-k-shaped-economy-better-mainland-markets-hong-kong-stocks-ubs",
-   "k": "중국의 K자형 경제, 홍콩 주식보다 중국 본토 시장에 더 유리: UBS"
+   "t": "As profits fall, China’s carmakers pass financial strain on to suppliers, expert says",
+   "u": "https://www.scmp.com/economy/china-economy/article/3375781/profits-fall-chinas-carmakers-pass-financial-strain-suppliers-expert-says",
+   "k": "전문가에 따르면, 수익이 감소함에 따라 중국 자동차 제조업체들이 재정적 부담을 공급업체에 전가하고 있다고 합니다."
   },
   {
    "s": "Economic Times",
-   "t": "China calls fresh US tariff plans ‘political maneuvering’",
-   "u": "https://economictimes.indiatimes.com/news/international/world-news/china-slams-proposed-us-tariffs-as-political-maneuvering-and-calls-for-trade-unity/articleshow/136154515.cms",
-   "k": "중국, 미국의 새로운 관세 부과 계획을 '정치적 책략'이라고 비난"
+   "t": "Huang is back. But Nvidia's China troubles are not over",
+   "u": "https://economictimes.indiatimes.com/news/international/world-news/jensen-huang-is-back-at-nvidia-but-washingtons-china-chip-war-is-far-from-over/articleshow/136159337.cms",
+   "k": "황이 돌아왔습니다. 하지만 엔비디아의 중국 문제는 아직 끝나지 않았습니다."
   },
   {
-   "s": "Traders Union",
-   "t": "Will copper price maintain sideways trend amid seller dominance and weak momentum?",
-   "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTHdOdzhrTDk1d2VMTTJrZnM0amZELXFnUXVhdkZoWEZUcS1oak9zZS1BbDJxNERvdkZLd08tS3JlM3Zyc3VsaC1VMF96c2E0dHJHM1BYbkZ6QWJybzR1OWIyZmx2bEp0ZTFsa2VZQUhTYjdkZG1uWlN6bG9laW9tS0RTNDBRcVBEN3VQbHo5akMwZXM?oc=5",
-   "k": "매도세 우위와 약한 모멘텀 속에서 구리 가격이 횡보세를 유지할까요?"
-  },
-  {
-   "s": "AL Circle",
-   "t": "LME tightens aluminium trading rules as dominant stockholders face new limits",
-   "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRVd4MVNkS050N3pjdkF5SWFwM1VjenpUcmdoQTZsS0xyMUFZWUpGM2FDMHFzNEw1UFc0OHV0RERCbW5ISExobWhXM0lLc0VJWmpWTk54N0pERlVnb09DVUc3b3NGdUlrSFNjV05zMW52YmVaQlBaaHNYdlhsY2szT0xYcW5sNUxjNXhkTlhiN19nOC1MWUNLTGJyTWN3eWtlTVhZQTFRMmZ3SUMwZDM0RGszTzI?oc=5",
-   "k": "LME, 지배적 주주에 대한 새로운 제한 조치에 따라 알루미늄 거래 규정 강화"
-  },
-  {
-   "s": "Trinidad Guardian",
-   "t": "Peter must not pay for Paul in scrap metal trade",
-   "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORmdYQWZsUE5HZExpb0V0N1JpalRxdTBlbU5XOW9kWF9WcHRvLVl3ZFEtMGhUWkV2SnlYTzhxNDZ5Yy15X1NodWI2UnVXUVFMSzk3b2l5cEhWa3p1c01FLVI3aWM1ZlFZWHZkNmVESWdEMGNIek9lSHRMdGxxWDZYRm9yRjVtS09mTkhCdWdqbWRkOE16cU9xbWs5bVRQdml6S3hkN0hXcHo?oc=5",
-   "k": "고철 거래에서 다른 사람의 잘못을 대신 책임지지 않아야 합니다."
-  },
-  {
-   "s": "Galaxy Television",
-   "t": "FG assures scrap metal traders over proposed regulation",
-   "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOT3BBS2gxMG5UdVJHcE1sX2xOUDZRZW16UWVRc1hTeWdUVFZLMlN1WGVkYURFSTZwQ1kzODFET0xOQ2UwWHdZRzFsNFhqZHRCNktBSEhsUTh6ZzQxOFNaMjFyTkx0RDJhWlJ1NTQyaVlwZUhvVW0xOVp6dTVkTm9zeTI4MGlvekhvb2JCdm92NTBOazJjV1IxOFZXY2ZpSk9aVi1LZE9qSlJjRUp5U2RteXNYbHc?oc=5",
-   "k": "연방정부, 고철 거래업자들에게 제안된 규제에 대해 안심시키다"
+   "s": "BBC",
+   "t": "Energy bills to rise by 26% from January after gas prices surge",
+   "u": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o",
+   "k": "1월부터 에너지 요금 26% 인상 예정"
   },
   {
    "s": "CNBC",
@@ -116,10 +74,22 @@
    "k": "연준의 존 윌리엄스 총재, 인플레이션 대응을 위해 '시간이 지남에 따라' 금리가 인상될 가능성이 높다고 시사"
   },
   {
+   "s": "Guardian",
+   "t": "EU to impose cap on Chinese hybrid EV imports next month",
+   "u": "https://www.theguardian.com/business/2026/nov/24/eu-cap-chinese-hybrid-ev-imports-tariff-uk",
+   "k": "EU, 다음 달 중국산 하이브리드 전기차 수입에 상한선 설정 예정"
+  },
+  {
+   "s": "MarketWatch",
+   "t": "Third-quarter GDP already looked great. Now it looks even better.",
+   "u": "https://www.marketwatch.com/story/third-quarter-gdp-already-looked-great-now-it-looks-even-better-12057da5?mod=mw_rss_topstories",
+   "k": "3분기 GDP는 이미 훌륭해 보였습니다. 이제는 더 좋아 보입니다."
+  },
+  {
    "s": "DW",
-   "t": "Can German auto manufacturing recover after Mercedes and VW cuts?",
-   "u": "https://www.dw.com/en/can-german-auto-manufacturing-recover-after-mercedes-and-vw-cuts/a-79946928?maca=en-rss-en-bus-2091-rdf",
-   "k": "메르세데스와 폭스바겐의 감축 이후 독일 자동차 제조업은 회복될 수 있을까요?"
+   "t": "Iran balances ties with China and Russia as Trump ramps up pressure",
+   "u": "https://www.dw.com/en/iran-balances-ties-with-china-and-russia-as-trump-ramps-up-pressure/a-79979920?maca=en-rss-en-bus-2091-rdf",
+   "k": "트럼프 대통령의 압박이 거세지는 가운데 이란, 중국 및 러시아와의 관계 균형 유지"
   },
   {
    "s": "Straits Times",
@@ -135,15 +105,117 @@
   },
   {
    "s": "Korea Herald",
-   "t": "AI trust crisis exposes cracks in Korea's stock market",
-   "u": "https://www.koreaherald.com/article/10949190",
-   "k": "AI 신뢰 위기가 한국 주식시장의 균열을 드러내다"
+   "t": "AmCham hosts Korea-US AI talks with Apple, AWS and Qualcomm",
+   "u": "https://www.koreaherald.com/article/10949349",
+   "k": "AmCham, 애플, AWS, 퀄컴과 한-미 AI 회담 개최"
   },
   {
    "s": "SCMP",
-   "t": "AstraZeneca’s China strategy: fewer sales staff, more investment?",
-   "u": "https://www.scmp.com/business/companies/article/3375725/astrazenecas-china-strategy-fewer-sales-staff-more-investment",
-   "k": "아스트라제네카의 중국 전략: 영업 인력 감축, 투자 확대?"
+   "t": "China’s K-shaped economy better for mainland markets than Hong Kong stocks: UBS",
+   "u": "https://www.scmp.com/business/markets/article/3375763/chinas-k-shaped-economy-better-mainland-markets-hong-kong-stocks-ubs",
+   "k": "중국의 K자형 경제, 홍콩 주식보다 중국 본토 시장에 더 유리: UBS"
+  },
+  {
+   "s": "Economic Times",
+   "t": "Cabinet clears port, airport, post office projects",
+   "u": "https://economictimes.indiatimes.com/news/economy/policy/cabinet-approves-rs-4288-cr-second-container-terminal-in-kamarajar-port-and-rs-2014-cr-silchar-airport/articleshow/136158496.cms",
+   "k": "내각, 항만, 공항, 우체국 프로젝트 승인"
+  },
+  {
+   "s": "MarketWatch",
+   "t": "Inflation gets worse. Now the Fed no choice but to raise U.S. interest rates.",
+   "u": "https://www.marketwatch.com/story/inflation-gets-worse-now-the-fed-no-choice-but-to-raise-u-s-interest-rates-8b0c2c1f?mod=mw_rss_topstories",
+   "k": "인플레이션이 악화되고 있습니다. 이제 연준은 미국 금리를 인상할 수밖에 없습니다."
+  },
+  {
+   "s": "DW",
+   "t": "Could the Airbus €3 billion loan row reignite a US-EU trade dispute?",
+   "u": "https://www.dw.com/en/could-the-airbus-€3-billion-loan-row-reignite-a-us-eu-trade-dispute/a-79943075?maca=en-rss-en-bus-2091-rdf",
+   "k": "에어버스의 30억 유로 대출 논란이 미-EU 무역 분쟁을 재점화할 수 있을까요?"
+  },
+  {
+   "s": "Straits Times",
+   "t": "Japan’s key services inflation gauge hits 36-year high",
+   "u": "https://www.straitstimes.com/business/japans-key-services-inflation-gauge-hits-36-year-high",
+   "k": "일본의 주요 서비스 물가 지표, 36년 만에 최고치 기록"
+  },
+  {
+   "s": "Yonhap",
+   "t": "S. Korean won weakens slightly against U.S. dollar on foreign outflows",
+   "u": "https://en.yna.co.kr/view/AEN20261125007800320",
+   "k": "외국인 매도세에 원/달러 환율 소폭 상승"
+  }
+ ],
+ "metals": [
+  {
+   "s": "Reuters",
+   "t": "LME tightens rules in response to aluminium squeeze",
+   "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUXM2VTBZNU94c2RmMW8zTTBxbWhFRHUyQ1ZUd3ZTTGl2b29IbkJ4amc3ekVxbTZfaUhhNWdDZ2xZZVlrX19UakNRY05JcjMzcWdHTk9sdEQwNXVvM1pTS1hmVm8yaXVTODZOOXQ5YjZ5T1VKaWVXN2YwUHEwYk1WQUt3RGJOYXRXZUlkT0pvM0VzYmVHcmxkYWhaVjk?oc=5",
+   "k": "LME, 알루미늄 품귀 사태에 대응하여 규제 강화",
+   "d": "2026-11-25"
+  },
+  {
+   "s": "FX News Group",
+   "t": "LME recalibrates Lending Rules for LME Aluminium Contract",
+   "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSTZ5Rk13dXh1UWpsWC1pOU1sdldfNkJhY1NvMllwM2NVYlhYR1drVEVNMVJEQ21ILW1qZWkyWXFudnAzZXNJcWlyeDhxZm5uYjB0eHFreS1RR3pUa0xkTmViS1IxWnBNdkZ3aHRIT2UtZ1N6M1pST1ZpZV8xaTdlVWlYZkVtanhYYjFnYzRtRHBfbVQxUnJvTGZ6VlBXZDFoQnRmWFN3?oc=5",
+   "k": "LME, LME 알루미늄 계약에 대한 대출 규정 재조정",
+   "d": "2026-11-25"
+  },
+  {
+   "s": "Finimize",
+   "t": "LME Steps In After An Aluminum Squeeze Warps Prices",
+   "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYV9JSXp0T0YwNG9lak5oenRMMzFNS3JTTUNpZGtiZlpVYnVzQTIwanNxaFl4c2NheHJUMkw2cThuU1hDZ2ZrNy1wQ3ZXZkg5TnlsWFV6RksxbVlXX0lnUnQzYkg0Y3lfVlR1QkVGNTZXV0xDR01XZHhOa3ZBUXpCTGxyNFJMd3M?oc=5",
+   "k": "알루미늄 스퀴즈로 가격이 왜곡된 후 LME가 개입하다",
+   "d": "2026-11-25"
+  },
+  {
+   "s": "BigMint",
+   "t": "India's copper scrap market faces sharp correction amid declining global benchmarks",
+   "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZ1hjZFVkd2JGeVppVExPTjRldlFWa1lMbHd0a19GSDVEZXNLY09jaDZsWHdMeVNfcy1NR1BrdnphaTk4SnRaXzQ4U1hveC12NGJhZ2o5bl9hWUtsamQwUmkzX01qUVBBLVZJTkJhTVJHN0dhSmY5RUJTWEZPMmQ0c2lQTTRuWk5vZzhKQ3pGT295UV9JbGY3NzNkUzNVbDRGamJwdlhlakNaVmFYalB2cXhVX05wQXBjcmVJdWd2WDExLWFaR3R4dg?oc=5",
+   "k": "인도의 구리 스크랩 시장, 글로벌 벤치마크 하락 속 급격한 조정 직면",
+   "d": "2026-11-25"
+  },
+  {
+   "s": "The Telegraph",
+   "t": "AI fears trigger plunge in copper prices",
+   "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOEtPTkd6S3VfZGtCMW54aFZDelUya1l4djU0aWh6cDRJUm5tLTNXNWx4OWNkbUpvbmVGVGZpVnlGa0paOW5NLWJuU2pkeDAxd05XMk1OUVg4c2RFVmw4allvUW1fTWdtV0xlNlBaTzEtWHdjSnZaTk9fTG5XRHd2dS1mY202MWFuRHg0aWNSRWI4U1d0VEMtTFZWU3hXSmo5eTJ0WmpWVHRhSy1E?oc=5",
+   "k": "AI에 대한 우려로 구리 가격 급락",
+   "d": "2026-11-25"
+  },
+  {
+   "s": "FXStreet",
+   "t": "Copper: Prices slide below $12,000 despite tight supply – ING",
+   "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSi1pSXFwLVl2dzFvU3h3NzJtQU9JczA0cXlHRkRMNUFYY1d4Yi1EeTdaTG1QV3BZdjhrd2pVWGozTTM1TTVQcmJhN1l3UFROX2RKVDVYRlBIcnliUDU3dkx6R1I0TkVoQUVJZUhfdGh3UXI4SlhRM3VhRUJwTjFFcFFldFRjcER0VzF3Vk1oVGxicVkwbElUSFduSFRXRUgxY1E?oc=5",
+   "k": "ING: 공급 부족에도 불구하고 구리 가격이 12,000달러 아래로 하락",
+   "d": "2026-11-25"
+  },
+  {
+   "s": "Aluminium International Today",
+   "t": "Aluminium body urges India to protect local supply",
+   "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdXRIbmtaN0FjUGpqOEdaWlg5aGtpcGVRSFhLUU9TSnpTbzJOTU9LNVhqYmJ0VE93OVZtUFFPczhrWVh6MTlLZ3BGWjM2SkZWSm1MTW9XODM0QjRNTkpuVHJrRzM3V0hYSDVEQTVwYkhJXzlQVHFXSjgzanR4UXpPZXVkMlFYQzlKaVE?oc=5",
+   "k": "알루미늄 업계, 인도 정부에 현지 공급망 보호 촉구",
+   "d": "2026-11-25"
+  },
+  {
+   "s": "nigeriahousingmarket.com",
+   "t": "FG Plans New Rules for Scrap Metal Trade to Protect Cables, Railways",
+   "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMmhKWEVYa2xXWHpjeE5vZUxXYlppY3RWTjBCMkNZMmxNVTVRYjFSaVI3VkMyMm9TZGQzYVBGb3l1Nkx5aHVmbU91WUtUS2hubW4zbGhPSHdDd21TTVJOVVFVQnY4OHpzT3NIajlaLXptRmlTd2JRQVJ0S2NPTzZWbGJJcHpxTHdpWmdvYU1aZ3hBMC15d3JvOUVTZ3UzSFpwSHlz?oc=5",
+   "k": "연방 정부, 케이블 및 철도 보호를 위한 고철 거래 신규 규정 마련 계획",
+   "d": "2026-11-25"
+  },
+  {
+   "s": "AL Circle",
+   "t": "India: Imported aluminium scrap prices fall sharply on LME correction, weak demand",
+   "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTFMzdE10b2lUOG5MYnJaVU9JWFFsMV92OHcxaXJhWFBFSW1PZW9kYlhiVzdUd2VvS01qNkgzUEUyQnQxUk5WT1dqZHE2eTFmV2txV3NUYUVSdEJmNXhlV2sybFR2XzlnSFZ6MERRc0VmbDMwdVBVT0ZOUDJyR1JwRkk0S1lfazVJZDRPaGRvTlpKMFhIelVMUTlNQ2k3aEtJZkRXWFhVOE9RUUI3Sy1vUjZ6NTI5ZF9W?oc=5",
+   "k": "인도: LME 가격 조정, 수요 부진으로 알루미늄 고철 수입 가격 급락",
+   "d": "2026-11-25"
+  },
+  {
+   "s": "HESPRESS English",
+   "t": "Morocco proposes independent audits to preserve EU scrap metal imports",
+   "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUUlCNXBZQVZTODNhRUZ3WGZwNDlUZWEzTXhScFFFaGtrRVVSancyUlRLVDlTWHVzdl9ObUZ4S3dvYWFtU3ZDN2d1ckw1VmJTX1BleWYzRWNDWGpwZVVsT2llM0tiWkhLWmhDNWtldDhfR0ZZTGZ1LTh2UC1TZDRaTjQyRHZKazNIbEdVRjZHak5zV0VLVkFZMnR4bTAyRTM4THVGd0JmMjhkUQ?oc=5",
+   "k": "모로코, EU 고철 수입을 유지하기 위한 독립 감사 제안",
+   "d": "2026-11-25"
   }
  ]
 }
