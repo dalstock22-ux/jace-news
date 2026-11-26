@@ -1,6 +1,66 @@
 {
- "updated": "2026-11-26T22:08+09:00",
+ "updated": "2026-11-27T07:35+09:00",
  "items": [
+  {
+   "s": "BBC",
+   "t": "Faisal Islam: Why Trump's new tariffs are less of a threat",
+   "u": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o",
+   "k": "파이살 이슬람: 트럼프의 새로운 관세가 덜 위협적인 이유"
+  },
+  {
+   "s": "CNBC",
+   "t": "Semiconductor chips are the new oil. Here's why",
+   "u": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html",
+   "k": "반도체 칩이 새로운 석유가 된 이유"
+  },
+  {
+   "s": "Guardian",
+   "t": "China reserves right to take ‘necessary measures’ after Trump’s new tariff proposals",
+   "u": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
+   "k": "중국, 트럼프 대통령의 새로운 관세 부과안에 대해 '필요한 조치'를 취할 권리를 보유한다고 밝혀"
+  },
+  {
+   "s": "MarketWatch",
+   "t": "Nvidia and the whole AI trade aren’t out of the woods — not by a long shot",
+   "u": "https://www.marketwatch.com/story/nvidia-and-the-whole-ai-trade-arent-out-of-the-woods-not-by-a-long-shot-bccc0025?mod=mw_rss_topstories",
+   "k": "Nvidia와 전체 AI 산업은 아직 위기에서 벗어나지 못했습니다. 아직 한참 남았습니다."
+  },
+  {
+   "s": "DW",
+   "t": "EU-Indonesia trade deal opens new markets, but challenges remain",
+   "u": "https://www.dw.com/en/eu-indonesia-trade-deal-opens-new-markets-but-challenges-remain/a-80059568?maca=en-rss-en-bus-2091-rdf",
+   "k": "EU-인도네시아 무역 협정으로 새로운 시장이 열렸지만, 여전히 과제가 남아 있습니다."
+  },
+  {
+   "s": "Straits Times",
+   "t": "CPF suppresses consumption? DPM Gan refutes US’ grounds for imposing higher tariffs",
+   "u": "https://www.straitstimes.com/business/cpf-suppresses-consumption-dpm-gan-refutes-us-grounds-for-imposing-higher-tariffs",
+   "k": "CPF가 소비를 억제한다? 간 DPM, 미국이 관세를 인상한 근거를 반박하다"
+  },
+  {
+   "s": "Yonhap",
+   "t": "(EDITORIAL from Korea JoongAng Daily on Nov. 27)",
+   "u": "https://en.yna.co.kr/view/AEN20261127000800315",
+   "k": "(11월 27일자 중앙일보 사설)"
+  },
+  {
+   "s": "Korea Herald",
+   "t": "Lee touts new deposit system as effective in curbing illegal fishing by Chinese vessels",
+   "u": "https://www.koreaherald.com/article/10950988",
+   "k": "이재명, 중국 선박의 불법 조업을 억제하는 데 효과적인 새로운 보증금 제도를 홍보하다"
+  },
+  {
+   "s": "SCMP",
+   "t": "China’s tech ambitions to stay on track despite Shanghai party chief’s ouster: analysts",
+   "u": "https://www.scmp.com/tech/big-tech/article/3375938/chinas-tech-ambitions-stay-track-despite-shanghai-party-chiefs-ouster-analysts",
+   "k": "상하이 당 서기 해임에도 불구하고 중국의 기술 부문 야망은 변함없을 것: 분석가들"
+  },
+  {
+   "s": "Economic Times",
+   "t": "Global maritime trade set for zero growth in 2026",
+   "u": "https://economictimes.indiatimes.com/news/international/world-news/global-maritime-trade-set-for-zero-growth-in-2026-un/articleshow/136200672.cms",
+   "k": "2026년 세계 해상 무역 성장률 제로 전망"
+  },
   {
    "s": "BBC",
    "t": "US announces new tariffs on host of countries including China",
@@ -10,7 +70,8 @@
   {
    "s": "CNBC",
    "t": "Robots could be doing household chores in just 1-2 years, Chinese EV firm says",
-   "u": "https://www.cnbc.com/2026/11/26/china-ev-xpeng-humanoid-robots-household-chores.html"
+   "u": "https://www.cnbc.com/2026/11/26/china-ev-xpeng-humanoid-robots-household-chores.html",
+   "k": "중국 전기차 업체, \"1~2년 내 로봇이 가사일을 할 수 있을 것\"이라고 밝혀"
   },
   {
    "s": "Guardian",
@@ -26,23 +87,33 @@
   },
   {
    "s": "Straits Times",
-   "t": "CPF suppresses consumption? DPM Gan refutes US’ grounds for imposing higher tariffs",
-   "u": "https://www.straitstimes.com/business/cpf-suppresses-consumption-dpm-gan-refutes-us-grounds-for-imposing-higher-tariffs"
+   "t": "Indonesia plans fee of 0.5% of export value of palm oil, association says",
+   "u": "https://www.straitstimes.com/business/indonesia-plans-fee-of-0-5-of-export-value-of-palm-oil-association-says",
+   "k": "인도네시아, 팜유 수출액의 0.5%를 수수료로 부과할 계획이라고 협회 발표"
   },
   {
    "s": "Yonhap",
-   "t": "Lee touts new deposit system as effective in curbing illegal fishing by Chinese vessels",
-   "u": "https://en.yna.co.kr/view/AEN20261126011751315"
+   "t": "(EDITORIAL from The Korea Times on Nov. 27)",
+   "u": "https://en.yna.co.kr/view/AEN20261127000700315",
+   "k": "(11월 27일자 코리아타임스 사설)"
+  },
+  {
+   "s": "Korea Herald",
+   "t": "Unification minister nominee vows pragmatic North Korea policy",
+   "u": "https://www.koreaherald.com/article/10950929",
+   "k": "통일부 장관 후보자, 실용적인 대북 정책 약속"
   },
   {
    "s": "SCMP",
-   "t": "China’s tech ambitions to stay on track despite Shanghai party chief’s ouster: analysts",
-   "u": "https://www.scmp.com/tech/big-tech/article/3375938/chinas-tech-ambitions-stay-track-despite-shanghai-party-chiefs-ouster-analysts"
+   "t": "Carmakers look to strengthen China’s electric mobility lead at Guangzhou auto show",
+   "u": "https://www.scmp.com/business/china-business/article/3375841/carmakers-look-strengthen-chinas-electric-mobility-lead-guangzhou-auto-show",
+   "k": "자동차 제조업체들이 광저우 모터쇼에서 중국의 전기 모빌리티 선도 지위를 강화하고자 합니다."
   },
   {
    "s": "Economic Times",
    "t": "17% US trade tariff offers little export advantage: FIEO",
-   "u": "https://economictimes.indiatimes.com/news/economy/foreign-trade/even-17-tariff-under-india-us-trade-deal-may-offer-little-competitive-advantage-to-indian-exporters-fieo/articleshow/136191482.cms"
+   "u": "https://economictimes.indiatimes.com/news/economy/foreign-trade/even-17-tariff-under-india-us-trade-deal-may-offer-little-competitive-advantage-to-indian-exporters-fieo/articleshow/136191482.cms",
+   "k": "17%의 미국 무역 관세는 수출에 거의 이점을 주지 못함: FIEO"
   },
   {
    "s": "BBC",
@@ -70,129 +141,80 @@
   },
   {
    "s": "Straits Times",
-   "t": "Indonesia plans fee of 0.5% of export value of palm oil, association says",
-   "u": "https://www.straitstimes.com/business/indonesia-plans-fee-of-0-5-of-export-value-of-palm-oil-association-says"
-  },
-  {
-   "s": "Korea Herald",
-   "t": "Unification minister nominee vows pragmatic North Korea policy",
-   "u": "https://www.koreaherald.com/article/10950929"
-  },
-  {
-   "s": "SCMP",
-   "t": "Carmakers look to strengthen China’s electric mobility lead at Guangzhou auto show",
-   "u": "https://www.scmp.com/business/china-business/article/3375841/carmakers-look-strengthen-chinas-electric-mobility-lead-guangzhou-auto-show"
-  },
-  {
-   "s": "Economic Times",
-   "t": "How Trump's tariff salvo for India compare with rivals",
-   "u": "https://economictimes.indiatimes.com/news/economy/foreign-trade/how-donald-trumps-proposed-fresh-tariff-salvo-for-india-compare-with-rival-nations/articleshow/136184609.cms"
-  },
-  {
-   "s": "BBC",
-   "t": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
-   "u": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o",
-   "k": "'저는 일요일에만 세탁기를 사용합니다' - 에너지 비용을 절감하는 방법"
-  },
-  {
-   "s": "CNBC",
-   "t": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
-   "u": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html",
-   "k": "연준의 존 윌리엄스 총재, 인플레이션 대응을 위해 '시간이 지남에 따라' 금리가 인상될 가능성이 높다고 시사"
-  },
-  {
-   "s": "Guardian",
-   "t": "Trump proposing new tariffs on 14 partners including China and EU",
-   "u": "https://www.theguardian.com/us-news/2026/nov/25/trump-new-china-tariffs-europe",
-   "k": "트럼프 대통령, 중국과 EU를 포함한 14개국에 대한 새로운 관세 부과 제안"
-  },
-  {
-   "s": "DW",
-   "t": "Iran balances ties with China and Russia as Trump ramps up pressure",
-   "u": "https://www.dw.com/en/iran-balances-ties-with-china-and-russia-as-trump-ramps-up-pressure/a-79979920?maca=en-rss-en-bus-2091-rdf",
-   "k": "트럼프 대통령의 압박이 거세지는 가운데 이란, 중국 및 러시아와의 관계 균형 유지"
-  },
-  {
-   "s": "Straits Times",
    "t": "Over $9 billion of S’pore goods affected by US tariffs; trade deal will involve compromises: DPM Gan",
-   "u": "https://www.straitstimes.com/business/over-9-billion-of-spore-goods-affected-by-us-tariffs-trade-deal-will-involve-compromises-dpm-gan"
-  },
-  {
-   "s": "Yonhap",
-   "t": "S. Korea secures final victory in ISDS case brought by Iran's Dayyani family",
-   "u": "https://en.yna.co.kr/view/AEN20261126010600315"
-  },
-  {
-   "s": "Korea Herald",
-   "t": "Can foreigners talk politics in Korea? Landmark ruling challenges blanket ban",
-   "u": "https://www.koreaherald.com/article/10950928"
-  },
-  {
-   "s": "SCMP",
-   "t": "China pushes brain-computer interface breakthroughs as Neuralink advances towards market",
-   "u": "https://www.scmp.com/business/china-business/article/3375858/china-pushes-brain-computer-interface-breakthroughs-neuralink-advances-towards-market"
+   "u": "https://www.straitstimes.com/business/over-9-billion-of-spore-goods-affected-by-us-tariffs-trade-deal-will-involve-compromises-dpm-gan",
+   "k": "미국 관세로 인해 90억 달러 이상의 싱가포르 상품에 영향; 무역 협정에는 타협이 수반될 것: 간 키앙여 부총리"
   }
  ],
  "metals": [
   {
-   "s": "Bloomberg.com",
-   "t": "China’s Copper Crunch Hides a Fragile Demand Outlook",
-   "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWlFkSHE0alpVOGJ2M29ISW9qQ3dlaWNjeGVEdlF3QVJEa3pfVzNVMGhQZGl3ZEpiNUttRE5qcGdrRTNyekRkQW9yME8yUTgxSk5GMG5QWGRBVXRqQXYwUXRFNDBJUk9uNW5mZWp6U29senh5MFBzbzJQMnkzUklKaHhhRnNmdklMUXBRMVlQUm9JWDYzaXpDTzFNZTNjTERqdXk0LXFUZXc4dw?oc=5",
-   "d": "2026-11-26"
-  },
-  {
-   "s": "Financial Times",
-   "t": "Trafigura calls for greater European metals support after shutting smelter",
-   "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUVVoTy1tN0hJejhoSFF4YnRHTHkzXzNwUFVzcHpvYk11YS1ZckpyNTVuRm45QzNFNGZQNFFoRGd6ZmV3cHhtdGUzd1dkcm5RcGtBeHNtWURzdFNWVWhVVnQ5d1F0a1pHd1JYcmxQYUVrNlZBT0MxQ19xOEFYZmRQVzRreVM?oc=5",
-   "d": "2026-11-26"
-  },
-  {
-   "s": "Reuters",
-   "t": "TSX futures flat as copper, silver rebound offset oil slip",
-   "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOHZaRlo1ZDVoeGx6WTAzbnVNcHBJZHY2TFF1dk41aGdQYUdJR0hLTUEwR2ZHN2Z0ZlAydE5XUmVTc2twUW9IeXkxX1ZRdTEwSGx3VkxmRklONGtuNEpaZ1pmNF9oc1VXbVJQaFF2SVJadS1wMEgtT2tYRlduNi12WEs5bWFkcmhNaDdBcWM3czBFQWM4SzhUamItanY2dHBQbnIySmFTZHM?oc=5",
-   "d": "2026-11-26"
-  },
-  {
-   "s": "IG",
-   "t": "DAX 40, AUD/USD and copper price expected to bounce back.",
-   "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeUs0ek5Hd1Q3TXZzUEZOU0gwbC11YVdHRzZKeTVtQkVockdCLUlycmxFbVFQZ1dySkZ5YXllc3p5MlczcFQwcm5KRU1HdzVoUWZFU2dPT0poaG90WmtFWXQ4ck9QR3Zsa1daV2NYWmdNR1AwYmpWX2Fva0NyeXNrYnhiTi1sSjd5d1NBUEkwZF9LTlVPQjNiWlc3WHhoMWFDNEJ4RmlSVzAzUQ?oc=5",
-   "d": "2026-11-26"
+   "s": "Mining.com",
+   "t": "Iron ore price gains on expectations of winter restocking at Chinese mills",
+   "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMm9VWmtIQVM3M0RHUEd4aXptVmNTV3ZQNjA2c2hnMTJ0UGNMMXpRa3pZR1I5R3VFa00yTVZHR3I1LUg3WTItSTZkRnFnS1pqUlQxQUFsNWV1ZEp1U1BTQVFmV0Vjb3VtMHlDMFdnWHA1WGJHQ1o4dy1sc3FTeVJ3cUVTczNGMFhpbC1DN3VBY3RFLWhKUmJhZzl6QlhycDkyWUxacQ?oc=5",
+   "k": "중국 제철소의 겨울철 재고 보충 기대감에 철광석 가격 상승",
+   "d": "2026-11-27"
   },
   {
    "s": "Mining.com",
-   "t": "LME approves listing of Tsingshan’s Indonesian aluminum brand",
-   "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVmtoSElkWW1ZcnNWOEJ2cEZzcndaalpPb1JKa1NmaDNGLWhjOVdXNVpjVTNJaEREQnNlcGR0SG1ORzJLRWxmWTJnam1YUVd1d0V3eUhmV1BTN3g5WWJINkZhaXVERGdXZmFQNUFUbHR0djZzRzZURkhjZzk3N29LZTJjQUY4VFdJMDZRc0lBZFdXZw?oc=5",
-   "d": "2026-11-26"
+   "t": "China’s lithium hydroxide futures tumble in debut as demand looks weak",
+   "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaTJwNnZpMGhrWGdyeGdzb3M3WGpYLWhlZjJCa2ZqZ1hKRjhFUmNwSkxGRWxKa3JYVmdIRHBKQkx3QTUtblVoZld6NmVFN09ZNnBIdXktVXNidF93U0ZBdW1TbDVUbmlkNklydDhib3k1UC1ZMmVLZTBoVGg3ZllBdFYyQmxVWnVpMWlrX2xUVTVFbzVwQVFpOThpWjNEQQ?oc=5",
+   "k": "수요가 부진해 보이는 가운데 중국 수산화리튬 선물 가격이 상장 첫날 급락했습니다.",
+   "d": "2026-11-27"
   },
   {
-   "s": "AL Circle",
-   "t": "LME approves Indonesian HCAI aluminium brand for delivery against high-grade contract",
-   "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaFBtUEVxUEpER1dLMXZFck12WktlYlVtSWFmM3o3V3g0aEh1S1N6ZXdMMFZvRUVMNjVwM2tpSmx6R1FYa19lMFpxZFFTSG16MWhROWNvWjNYTlFOdnVsNzVLZENwbHlDRHlLS3pXbE44MUROOFY1VFAzV1dkOVJtNDZVNTNZRnVjb1RjbHRLV2s2YVZSRHhpUlNiZmtWdFBjejNrVEJSS1ZwQkF2aXNXb3pMb2Q3RENUWVpHcWhnSQ?oc=5",
+   "s": "TradingView",
+   "t": "Price to sales forward of Copper Fox Metals Inc. – MUN:HPU",
+   "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdVB0NGpvcVdadk9kN3RxZXJ3b0pGV0Y2VHdGNkJVeUs0N29HMGpqSGxKeWluVEIxQm4wNUZJQnJhTUc1bXl2MVpOU29ic1YtQ0UtYTFFUWZnOHQyVDh2MHlzWGFXQTNGaDhZei1zS1BuMV90aExqNmF2MndVa3dScG5oNlNvd0tyNV9oZC1leDJya29BY2Q1bA?oc=5",
+   "k": "Copper Fox Metals Inc.의 주가 대비 매출액(P/S) 포워드 – MUN:HPU",
+   "d": "2026-11-27"
+  },
+  {
+   "s": "Traders Union",
+   "t": "Ongoing US tariff questions keep copper futures exposed to weaker demand signals",
+   "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeWZIOENUaWMtWjVqQUt3dld6TExqV3Zfa0RMTjQ3ektXUHo2eUpWV3FRb21mNjkyeGpjNjh1Vnp0dWxVYkFwbENoTjZuYzFIX3Rla205RVgtQ1BNcjR3UVAtYWRFZ0xnM1R1MGlFV05rUWpncnJHNWVzUG9QTzJCX2MydE85SGllTTJ3?oc=5",
+   "k": "미국의 지속적인 관세 문제로 인해 구리 선물은 수요 감소 신호에 계속 노출되어 있음",
+   "d": "2026-11-27"
+  },
+  {
+   "s": "Kitco",
+   "t": "Copper price bounces as AI equities recover, zinc jumps by most since January",
+   "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcFB1LWEwWUNUbmhNUjhyUlU3UGFzNjgyd0tYX3NBYUkwRGVHTFlLWm5LcUtBdi1sOXpCQXlWcnhvZi1wRmVzNUl6ZE9xRTRkYlhOb1AyRlFWc2c1aDh1S1VRQzJ1MEtkRGpuWC15VTNJTkZwLTBUanZnbnVzQmY5bEZVYlFveWJ3bW13WG96Tms3NGhqR1gtMl8wWVZwbU11XzhzYkNuRFpMdTJBMlZ4ZlJLWXhiZw?oc=5",
+   "k": "AI 관련주 회복에 따라 구리 가격 반등, 아연은 1월 이후 최대폭 상승",
+   "d": "2026-11-27"
+  },
+  {
+   "s": "www.tmgm.com",
+   "t": "Copper: Prices rebound following a steep monthly decline – ING",
+   "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUV9oWjBwVUVqWmE3YjFMOUJPbGk0c0JyWUFLaHloRC05TW1BOVUyQ3dNdHRaRUlzQ25aUW1KVC13WHNwYUdJZVZyQTlITEYxT05lM3ZiVFc3ZnI5czF1OVpoaC1iTnN4LTMxTHo0RUVTX2d2Z2ljREpQZWRQa1FLeGgyUUxsNExzWXFfd21WNFdtSFpqOEwySjBIdE1Ydlh6NEZRNzItNFZma1FSaG92ZmVxek4?oc=5",
+   "k": "구리: 급격한 월간 하락 후 가격 반등 – ING",
+   "d": "2026-11-27"
+  },
+  {
+   "s": "The Hub",
+   "t": "Greer signals room for Canada in any change to U.S. auto and steel tariffs",
+   "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQamU5RDJWcUh2bDZzYzVGZzlGLXJqem16dlBnUXNZR1J5RFhtTDRxYzY5U0YyZmg0MHdfaXNJT1AwY1AtSEpNTklXLWVRQjZ0WHFPeVFsVWxKSWVpZVZTeEpXTXZNTTVMZDVxR3RQX2o5OHUtR3FyV3BhXzByZnNiYVE5ckRlZXZ1Z1c2ay1mamJYYTZlMHpvNzJ2b0ZPemU1Z0dBY01R?oc=5",
+   "k": "그리어 장관, 미국 자동차 및 철강 관세 변경 시 캐나다에 대한 고려 여지 시사",
    "d": "2026-11-26"
   },
   {
    "s": "Engineer Live",
    "t": "New metal recycling research from Coventry University",
    "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOREVEYXMycGdiZ01zM0NoZW05MW1PLUpDQTJHLTRnR3R6ZTNiRzhQQkJUYm9tWXYtNnFUUjVacFBUc3JiMVVfYzBqQk5wOEJVcF9KSU5zUEUyeS11YnhyMGtHcnVTZnZtZ2FRc0VVZk5kUlpBQVY3WkF1RkV2M3lvQTRkNW4xQQ?oc=5",
+   "k": "코벤트리 대학교의 새로운 금속 재활용 연구",
    "d": "2026-11-26"
   },
   {
    "s": "letsrecycle.com",
    "t": "West Midlands waste and metal recycling site sells for £2.8m",
    "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZG5sOEVBc200V1l5LTE1UnZsb3pyd3BZNVN4Nm56S08tVWVmUUktdU16TTZBNHdLNHczM3RYZGtfYldmU2lHMXcwLTNERG1XeVdzRjJqTXZqN0U4amlSQjVFMzBxdk8xeVlSX1U5UTZJaWdnYURNYmlEUXJnSUVfMmJlTkRlbzBvNFNvLWVZcUxNS19zQ3lWWg?oc=5",
+   "k": "웨스트 미들랜즈 폐기물 및 금속 재활용장이 £280만(약 46억 6,000만원)에 매각되었습니다.",
    "d": "2026-11-26"
   },
   {
-   "s": "Shanghai Metals Market",
-   "t": "Overseas Bare Bright Copper Scrap Pricing Ratios Exceed 100% amid High Copper Cathode Premiums",
-   "u": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPS0NxWmRNODM5dVVWemI0Zm82OVNJWmtiT202QjFWWGtSdFdweHBpc0FUNWYzQnQtb1dLUlp5UEIySmZFVm1KUkJFY2F5M05BWHc5OEVrcHNHcFBIQ2FHcEJVTnU2UGJwcHVSbHhHOHVPckZkalZqR29kdjFJQVk4eTVZX1hjQmNRMWV0eEJQbkI4WU5fUkF2a2duQUwybFJ0SFlmOFlRaXlMbmZlazM3eUJ5dlBObjFRdE5DUVkyV0NUbk1oMlZFc3ktMmJuMm1SVTVWTUZZOHUxWWtqTmFxRzhCTlFfRVp2OHpNVDJCRktJdk9pMVNJZjRFWXA?oc=5",
-   "d": "2026-11-26"
-  },
-  {
-   "s": "BigMint",
-   "t": "India's copper scrap market faces sharp correction amid declining global benchmarks",
-   "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZ1hjZFVkd2JGeVppVExPTjRldlFWa1lMbHd0a19GSDVEZXNLY09jaDZsWHdMeVNfcy1NR1BrdnphaTk4SnRaXzQ4U1hveC12NGJhZ2o5bl9hWUtsamQwUmkzX01qUVBBLVZJTkJhTVJHN0dhSmY5RUJTWEZPMmQ0c2lQTTRuWk5vZzhKQ3pGT295UV9JbGY3NzNkUzNVbDRGamJwdlhlakNaVmFYalB2cXhVX05wQXBjcmVJdWd2WDExLWFaR3R4dg?oc=5",
-   "k": "인도의 구리 스크랩 시장, 글로벌 벤치마크 하락 속 급격한 조정 직면",
+   "s": "Trinidad Guardian",
+   "t": "Peter must not pay for Paul in scrap metal trade",
+   "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORmdYQWZsUE5HZExpb0V0N1JpalRxdTBlbU5XOW9kWF9WcHRvLVl3ZFEtMGhUWkV2SnlYTzhxNDZ5Yy15X1NodWI2UnVXUVFMSzk3b2l5cEhWa3p1c01FLVI3aWM1ZlFZWHZkNmVESWdEMGNIek9lSHRMdGxxWDZYRm9yRjVtS09mTkhCdWdqbWRkOE16cU9xbWs5bVRQdml6S3hkN0hXcHo?oc=5",
+   "k": "고철 거래에서 다른 사람의 잘못을 대신 책임지지 않아야 합니다.",
    "d": "2026-11-26"
   }
  ]
