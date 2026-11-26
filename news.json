@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T05:10+09:00",
+ "updated": "2026-11-26T12:06+09:00",
  "items": [
   {
    "s": "BBC",
@@ -15,15 +15,9 @@
   },
   {
    "s": "Guardian",
-   "t": "US inflation hits highest since May after prices climb 3.8% over the last year",
-   "u": "https://www.theguardian.com/business/2026/nov/25/consumer-prices-september-october-energy-inflation",
-   "k": "지난 1년간 물가가 3.8% 상승하며 미국 인플레이션이 5월 이후 최고치를 기록했습니다."
-  },
-  {
-   "s": "MarketWatch",
-   "t": "The Fed says inflation hasn’t gotten any better ahead of its key December vote to raise rates",
-   "u": "https://www.marketwatch.com/story/the-fed-says-inflation-hasnt-gotten-any-better-ahead-of-its-key-december-vote-to-raise-rates-65024d33?mod=mw_rss_topstories",
-   "k": "연준, 12월 금리 인상 결정에 앞서 인플레이션이 개선되지 않았다고 밝혀"
+   "t": "UK food inflation could hit 5% next year, Bank of England says",
+   "u": "https://www.theguardian.com/business/2026/nov/25/uk-food-inflation-sharp-rise-next-year-mounting-cost-pressures-bank-of-england",
+   "k": "영국 중앙은행, 내년 영국 식료품 인플레이션이 5%에 달할 수 있다고 밝혀"
   },
   {
    "s": "DW",
@@ -33,39 +27,39 @@
   },
   {
    "s": "Straits Times",
-   "t": "Australian inflation hots up in October, core hits two-year high",
-   "u": "https://www.straitstimes.com/business/australian-inflation-heats-up-in-october-core-hits-two-year-high",
-   "k": "10월 호주 물가상승률 상승, 근원물가지수는 2년 만에 최고치 기록"
+   "t": "US leaves door open to lower Singapore tariff deal even as it proposes 20% levy",
+   "u": "https://www.straitstimes.com/business/us-proposes-new-tariff-of-up-to-20-on-singapore-but-leaves-the-door-open-to-a-deal",
+   "k": "미국, 20% 관세 부과를 제안하면서도 싱가포르 관세 인하 협상 가능성 열어둬"
   },
   {
    "s": "Yonhap",
-   "t": "U.S. proposes excess capacity tariffs on S. Korean goods within agreed 15 pct ceiling",
-   "u": "https://en.yna.co.kr/view/AEN20261126000200315",
-   "k": "미국, 합의된 15% 상한 내에서 한국산 제품에 대한 초과 생산능력 관세 부과 제안"
+   "t": "BOK chief sees improvement in S. Korea's potential growth rate",
+   "u": "https://en.yna.co.kr/view/AEN20261126006000320",
+   "k": "한국은행 총재, 한국의 잠재성장률 개선 전망"
   },
   {
    "s": "Korea Herald",
-   "t": "Korea to retain 15% tariff cap under new US tariff proposal",
-   "u": "https://www.koreaherald.com/article/10949511",
-   "k": "한국, 미국의 새로운 관세 제안에 따라 15% 관세 상한 유지"
+   "t": "N. Korea's Kim inspects nuclear material sites, calls for broader use of tactical nukes",
+   "u": "https://www.koreaherald.com/article/10950253",
+   "k": "북한 김정은, 핵물질 시설 시찰하며 전술핵 확대 사용 촉구"
   },
   {
    "s": "SCMP",
-   "t": "Shein revenue falls 6% in third quarter as EU trade curbs hit sales hard",
-   "u": "https://www.scmp.com/business/companies/article/3375804/shein-revenue-falls-6-third-quarter-eu-trade-curbs-hit-sales-hard",
-   "k": "EU 무역 규제로 매출이 크게 감소하면서 Shein의 3분기 매출이 6% 감소했습니다."
+   "t": "China’s CATL faces a trillion-yuan question: how to win back investor confidence",
+   "u": "https://www.scmp.com/business/climate-and-energy/article/3375822/chinas-catl-faces-trillion-yuan-question-how-win-back-investor-confidence",
+   "k": "중국의 CATL, 1조 위안 규모의 난제에 직면: 투자자 신뢰 회복 방법은?"
   },
   {
    "s": "Economic Times",
-   "t": "No China spy link in Jensen-Alice Huang case: WSJ",
-   "u": "https://economictimes.indiatimes.com/news/international/world-news/no-evidence-chinese-intelligence-directed-alice-huang-to-spy-on-nvidia-ceo-wsj-reports/articleshow/136168250.cms",
-   "k": "젠슨-앨리스 황 사건에 중국 스파이 연관성 없음: WSJ"
+   "t": "Trump's tariff move is about power, not popularity",
+   "u": "https://economictimes.indiatimes.com/news/international/world-news/for-trump-doubling-down-on-tariffs-is-about-power-not-popularity/articleshow/136176235.cms",
+   "k": "트럼프의 관세 조치는 인기가 아닌 권력에 관한 것이다"
   },
   {
    "s": "BBC",
-   "t": "Energy bills to rise by 26% from January after gas prices surge",
-   "u": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o",
-   "k": "1월부터 에너지 요금 26% 인상 예정"
+   "t": "Energy price increase 'could put me in hospital'",
+   "u": "https://www.bbc.co.uk/news/articles/cm5y1g42x2wzo",
+   "k": "에너지 가격 인상으로 '병원 신세를 질 수도 있다'"
   },
   {
    "s": "CNBC",
@@ -75,15 +69,9 @@
   },
   {
    "s": "Guardian",
-   "t": "Trump proposing new tariffs on 14 partners including China and EU",
-   "u": "https://www.theguardian.com/us-news/2026/nov/25/trump-new-china-tariffs-europe",
-   "k": "트럼프 대통령, 중국과 EU를 포함한 14개국에 대한 새로운 관세 부과 제안"
-  },
-  {
-   "s": "MarketWatch",
-   "t": "Inflation gets worse. Now the Fed has no choice but to raise U.S. interest rates.",
-   "u": "https://www.marketwatch.com/story/inflation-gets-worse-now-the-fed-no-choice-but-to-raise-u-s-interest-rates-8b0c2c1f?mod=mw_rss_topstories",
-   "k": "인플레이션이 악화되고 있습니다. 이제 연준은 미국 금리를 인상할 수밖에 없습니다."
+   "t": "US inflation hits highest since May after prices climb 3.8% over the last year",
+   "u": "https://www.theguardian.com/business/2026/nov/25/consumer-prices-september-october-energy-inflation",
+   "k": "지난 1년간 물가가 3.8% 상승하며 미국 인플레이션이 5월 이후 최고치를 기록했습니다."
   },
   {
    "s": "DW",
@@ -93,45 +81,45 @@
   },
   {
    "s": "Straits Times",
-   "t": "Asian stocks tumble as AI rally fizzles and Trump tariff fears return",
-   "u": "https://www.straitstimes.com/business/companies-markets/asian-stocks-tumble-as-ai-rally-fizzles-and-trump-tariff-fears-return",
-   "k": "AI 랠리가 시들고 트럼프 관세 우려가 다시 고개를 들면서 아시아 증시가 급락했습니다."
+   "t": "Australian inflation hots up in October, core hits two-year high",
+   "u": "https://www.straitstimes.com/business/australian-inflation-heats-up-in-october-core-hits-two-year-high",
+   "k": "10월 호주 물가상승률 상승, 근원물가지수는 2년 만에 최고치 기록"
   },
   {
    "s": "Yonhap",
-   "t": "Mercedes-Benz bets on core models in EV strategy shift away from EQ lineup",
-   "u": "https://en.yna.co.kr/view/AEN20261125003000320",
-   "k": "메르세데스-벤츠, EQ 라인업에서 벗어나 핵심 모델에 초점을 맞춘 전기차 전략 전환"
+   "t": "U.S. military confirms inactivation of Apache helicopter squadron in S. Korea",
+   "u": "https://en.yna.co.kr/view/AEN20261126005500315",
+   "k": "미군, 한국 주둔 아파치 헬리콥터 비행대대 해체 확인"
   },
   {
    "s": "Korea Herald",
-   "t": "AmCham hosts Korea-US AI talks with Apple, AWS and Qualcomm",
-   "u": "https://www.koreaherald.com/article/10949349",
-   "k": "AmCham, 애플, AWS, 퀄컴과 한-미 AI 회담 개최"
+   "t": "S. Korea's spy agency denies report about China's alleged proposal for anti-US operations",
+   "u": "https://www.koreaherald.com/article/10949989",
+   "k": "한국 정보기관, 중국의 대미(對美) 작전 제안 의혹 보도 부인"
   },
   {
    "s": "SCMP",
-   "t": "As profits fall, China’s carmakers pass financial strain on to suppliers, expert says",
-   "u": "https://www.scmp.com/economy/china-economy/article/3375781/profits-fall-chinas-carmakers-pass-financial-strain-suppliers-expert-says",
-   "k": "전문가에 따르면, 수익이 감소함에 따라 중국 자동차 제조업체들이 재정적 부담을 공급업체에 전가하고 있다고 합니다."
+   "t": "AI turmoil spurs risk-off mode as China government bond yield slides to record low",
+   "u": "https://www.scmp.com/business/china-business/article/3375721/ai-turmoil-spurs-risk-mode-china-government-bond-yield-slides-record-low",
+   "k": "AI 혼란으로 인해 중국 정부채 수익률이 사상 최저치로 하락하면서 위험 회피 모드가 가속화되고 있습니다."
   },
   {
    "s": "Economic Times",
-   "t": "Beat inflation for 30 years: US bond deal ends soon",
-   "u": "https://economictimes.indiatimes.com/world/us/a-government-savings-bond-now-guarantees-youll-beat-inflation-by-1-40-for-30-years-its-best-deal-since-2006-the-window-closes-april-30-2027/articleshow/136160478.cms",
-   "k": "30년 동안 인플레이션을 이겨내세요. 미국 국채 거래가 곧 종료됩니다."
+   "t": "US flags Chinese surveillance of Alice during affair",
+   "u": "https://economictimes.indiatimes.com/news/international/world-news/nvidia-ceo-us-intelligence-flags-possible-chinese-surveillance-of-alice-huang-cbs-news-says/articleshow/136175775.cms",
+   "k": "미국, 중국이 불륜 중인 앨리스를 감시하고 있다고 지적"
   },
   {
    "s": "BBC",
-   "t": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
-   "u": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o",
-   "k": "'저는 일요일에만 세탁기를 사용합니다' - 에너지 비용을 절감하는 방법"
+   "t": "Scots react to news of rising energy prices",
+   "u": "https://www.bbc.co.uk/news/videos/cmqlq07d71yko",
+   "k": "스코틀랜드인들이 에너지 가격 인상 소식에 반응하다"
   },
   {
    "s": "Guardian",
-   "t": "EU to impose cap on Chinese hybrid EV imports next month",
-   "u": "https://www.theguardian.com/business/2026/nov/24/eu-cap-chinese-hybrid-ev-imports-tariff-uk",
-   "k": "EU, 다음 달 중국산 하이브리드 전기차 수입에 상한선 설정 예정"
+   "t": "Trump proposing new tariffs on 14 partners including China and EU",
+   "u": "https://www.theguardian.com/us-news/2026/nov/25/trump-new-china-tariffs-europe",
+   "k": "트럼프 대통령, 중국과 EU를 포함한 14개국에 대한 새로운 관세 부과 제안"
   },
   {
    "s": "DW",
@@ -141,47 +129,24 @@
   },
   {
    "s": "Straits Times",
-   "t": "Japan’s key services inflation gauge hits 36-year high",
-   "u": "https://www.straitstimes.com/business/japans-key-services-inflation-gauge-hits-36-year-high",
-   "k": "일본의 주요 서비스 물가 지표, 36년 만에 최고치 기록"
+   "t": "Asian stocks tumble as AI rally fizzles and Trump tariff fears return",
+   "u": "https://www.straitstimes.com/business/companies-markets/asian-stocks-tumble-as-ai-rally-fizzles-and-trump-tariff-fears-return",
+   "k": "AI 랠리가 시들고 트럼프 관세 우려가 다시 고개를 들면서 아시아 증시가 급락했습니다."
+  },
+  {
+   "s": "Yonhap",
+   "t": "U.S. expected to maintain agreed-upon 15 pct tariff rate for S. Korea, issues warning on chips",
+   "u": "https://en.yna.co.kr/view/AEN20261126003300320",
+   "k": "미국, 한국에 대해 합의된 15% 관세율 유지 예상, 반도체 관련 경고 발령"
+  },
+  {
+   "s": "Korea Herald",
+   "t": "BOK revises up S. Korea's 2026 growth outlook to 3.9%, 4.1% for 2027",
+   "u": "https://www.koreaherald.com/article/10949966",
+   "k": "한국은행, 2026년 한국 성장률 전망치를 3.9%, 2027년에는 4.1%로 상향 조정"
   }
  ],
  "metals": [
-  {
-   "s": "Mining.com",
-   "t": "Norsk Hydro expects full return of Qatalum aluminum output early next year",
-   "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRExjaHFQQm9FNG56M0N0NHRobkhnbTNBUUJrTHd1cDFUcUM5UDFvbW9kTi14cUtrUndzZkRfYjdVcE1neXR3c0tYbHZVXzF6WDhveGN0czNsb0xobUFmd1pBUHJaQWlWMGgwbnh2UERrckxtMjR5TlIzOUJaQUtPeGpnR1NXcGV0V3VEUC1sZGVTSV9WeTE2NkVubk00Y0RDWGpWeA?oc=5",
-   "k": "노르스크 하이드로, 내년 초 카탈룸 알루미늄 생산량 완전 회복 예상",
-   "d": "2026-11-26"
-  },
-  {
-   "s": "WSJ",
-   "t": "Copper at Lowest Since April Amid AI Market Turmoil, Chinese Demand Concerns",
-   "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSDdUc05JVC1iR0RlNkpmWjhXLVNUZGZDcU5lLWdjT184cVdHMGpONWV6ZXVTY012WGR2Z2tiRVdPNU1mT1lnWHFNamN0SGNIS3YyblFYX251ZEh2aE9rNnpCTUZrbWpEQS1EOVdBVDdxaHpESkZjQm1fREhURWpTdGNCa05NemdvaFBWV3JiVDdVc2RKN21CMjQzRlJUMUh1U1g5RThDcS1jSjI0aVRCRExFcTI4NEpjNjJFWDliaXh1b1R3MVN2a2lSbmM?oc=5",
-   "k": "AI 시장 혼란, 중국 수요 우려 속 4월 이후 최저 수준의 구리 가격",
-   "d": "2026-11-26"
-  },
-  {
-   "s": "Mining.com",
-   "t": "Copper price sinks to 2026 low as mining stocks brace for further losses",
-   "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRlJsZTEzejNIVzVWZVdKTjVNT01LYWRmRWhpQzN4X093TDh1dWkwWm51RWkzZzZfaFdmMXVkOXVUczhiWlRlNXlFa2tZVmVLamZNN2dic0FqM3YxTmxoSUxVR0lvMjJCaFc2d3JsRU1IcUNPRFZWRG9mMUx0NC1vNUotTW5CR2tZTUhsZEFYeDhrLV9wdVFCWE5WaVQ?oc=5",
-   "k": "광산주가 추가 하락을 앞두고 있는 가운데, 구리 가격이 2026년 최저치로 하락했습니다.",
-   "d": "2026-11-26"
-  },
-  {
-   "s": "Traders Union",
-   "t": "Tariff anticipation keeps copper buoyed despite cautious equity markets",
-   "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMzNQVTZCUmVkaUFNMjNVZnJhYnRxY3ozeFpCN3lhUXB5T0E5OGRoalpkTS1CeUVWOG5XUEhvZm1DTFotOVg5Y0lVSnM3SjdGM1dCeFFoUXRDUzdxN0JVRDJpQlhxMnFCS204R0dFM1l2Qm5jTFR0a082TU1Lc21rSVRGdlptQU5uQ3FnRUl0UkpSNGJzaXc?oc=5",
-   "k": "신중한 주식 시장에도 불구하고 관세 인상에 대한 선제적 대응으로 구리 가격이 상승세를 유지하다",
-   "d": "2026-11-26"
-  },
-  {
-   "s": "BigMint",
-   "t": "India's copper scrap market faces sharp correction amid declining global benchmarks",
-   "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZ1hjZFVkd2JGeVppVExPTjRldlFWa1lMbHd0a19GSDVEZXNLY09jaDZsWHdMeVNfcy1NR1BrdnphaTk4SnRaXzQ4U1hveC12NGJhZ2o5bl9hWUtsamQwUmkzX01qUVBBLVZJTkJhTVJHN0dhSmY5RUJTWEZPMmQ0c2lQTTRuWk5vZzhKQ3pGT295UV9JbGY3NzNkUzNVbDRGamJwdlhlakNaVmFYalB2cXhVX05wQXBjcmVJdWd2WDExLWFaR3R4dg?oc=5",
-   "k": "인도의 구리 스크랩 시장, 글로벌 벤치마크 하락 속 급격한 조정 직면",
-   "d": "2026-11-26"
-  },
   {
    "s": "Mining.com.au",
    "t": "Copper price sinks to 11-month low as tariff, rate hike fears grip markets",
@@ -190,11 +155,46 @@
    "d": "2026-11-26"
   },
   {
-   "s": "WSJ",
-   "t": "Copper Slumps Amid AI Roller Coaster But Physical Supply Remains Tight",
-   "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbXJXdFVUTFZpNnl3SlJWbU9iV0ZaOGh1QUVUR1o5WjYtOXhwb3M1NUROaFFTb3NpOUJRZ1ROZ2Y0NlVlOWhwb0htcUY3SV9hYlRmZnMxT2Rnc21UMUlmazQwZk50TF9SY0U2enpKTzQ1a1hwbTY2aGlLbmM3Z0xkODBrQWg1YVdSREgtMjRKR1JHUk1RN3hrZjEwNmZpUk5EZktvRFVNdklzVzl5R0x0Mlh4Q3k2UmoxY203SFU3R1kwWDBQUnc?oc=5",
-   "k": "AI 롤러코스터 속 구리 가격 하락세, 하지만 현물 공급은 여전히 타이트",
+   "s": "Shanghai Metals Market",
+   "t": "Copper Wire and Cable Exports Edge Up in October Regional Markets Show Structural Divergence",
+   "u": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNRGNubFRtVUN5U096NWdUcDIzTDljcTR5Vk4wUUtRSFdmWm5Id2JpVE5ET0VmZW5rTzVKZEpkZzVNenZ1ajJuUG94d2I4V2J2Y3NBTWMzZGY5ZzlfUmZFNWN3YWM2bXZmV2VJVEdtMlBYM2ZGN3pRT255Qm1JMDY4TVVOOV92QVlBT0YwMWh0NzJhZXVfRGI3OVFTSGVoZEhpVFA2a0JWTHVtd2xicDgyODRkdXhnVWpaY2xnaEdEMExuR1NQOVl0a1FBT2p5MGRSNkJJSWRrYmFhaDJyWk16cVJwc2xyWko5NW9aMzJGc0RnajRYa1VjNkctMA?oc=5",
+   "k": "10월 구리 와이어 및 케이블 수출액 소폭 상승 지역 시장별 구조적 차이 나타나",
    "d": "2026-11-26"
+  },
+  {
+   "s": "Robinhood",
+   "t": "Copper Price November 27 2026",
+   "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbzdHQVFFeDlyZF9vSm9tMWtVQnlFd2ZfQTRYVEQ1SVFyYTdVV3AyOTBJb05OQkxVdENNN1V3SHplMXVWMVhrMExOQ0Nkb1NfQ0t0aUJGMzhwQWMzd18zcUJ2dTBqMm5NdlJEcFZSUFhZMTJrSkJlS3BrdGl6aXdIcUp3akJQV185WG9rc01UUUp4ZnktWjdjNkp3azV3TUJYYldUbWl3?oc=5",
+   "k": "2026년 11월 27일 구리 가격",
+   "d": "2026-11-26"
+  },
+  {
+   "s": "Shanghai Metals Market",
+   "t": "Aluminum prices plunged today, spot market significantly weakened [SMM South China spot aluminum daily review]",
+   "u": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNY21WSEpzT0oxZ1VQOWxxSDdIV0NvT1g4eW92UF9UNWJIaFpybmVYZ08xbC11aFlKM05tTmhVMVNDWVVQQ2QzZEpqRWpYcUEycjRtdFp1Z3ZXRVo4LTluci12RWdfdjd2UEVsS2dKQUNYQWpIOWcybzVvSzd0Z2RDMEVkSG9sN2prN0d2elBfVXpuMFRfNzY1d3JOcXVpN2FWX1ZvdUdsWTJEeWFoX1F1VldHbEdTdnNRSFE2ZXJJdmh4NHd3UndYdkNUMUJrc1Z3bjBxX3pUR0lzZnpLMFJ5RGFaTGlGMjdGUERYbDhEcjROM0R3XzJZMmdXLTFXc0dGSDdXUjluWFJfQjhkeDI0?oc=5",
+   "k": "오늘 알루미늄 가격 급락, 현물 시장 크게 약세 [SMM 중국 남부 알루미늄 현물 일일 동향]",
+   "d": "2026-11-26"
+  },
+  {
+   "s": "Geomechanics.io",
+   "t": "Copper price sinks to 2026 low: risk and project economics lens for mine planners",
+   "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORFNvNUN2cWxuSk4tWl95MEVJbmlHcHFyQ2ZHWUF6MjJIQWxhQVV6akhZVTVhU3BDZVc0d3Z5Wm1UZzhHUmdDakxIa2ZWUExKa3JkLURneUdLRm1PanRQZWw2ZlZBbXJPbW9SX0JLYzAxSGNXU1pOQ3FpaFdPdHVyWmxrS0kzVWhBbC1DLU5rZG9TcVNLQktEUFFXQ1dhdE1rMWFReFI2V0FKa09jaWJqdWI4QTliX0NNcFhlb193?oc=5",
+   "k": "구리 가격, 2026년 최저치로 하락: 광산 계획 수립자를 위한 위험 및 프로젝트 경제성 분석",
+   "d": "2026-11-26"
+  },
+  {
+   "s": "NAI500",
+   "t": "LME Approves Indonesian Aluminium from Tsingshan, Huafon to Ease Historic Squeeze",
+   "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOT0NUU3BfbWtMMEdDN3NIbnpLM1BMVXJYN05OaHZhSklpUTRsNWVuOTZuNjhKTG1FMGJhQ2F2ZlFmU2dqSU9iTGE0a0k2V2YyX3lTZHBBeEk1NWhvcnlHOEF6djM3UVkyRXpSaXBuTFlsenFOb1haX0x0cmdEbDdBblMtd1lqMmtXWmNCUExqVlRVYndnOGhJSC0zVXZMeWx5dmdlRFhmb1U4c1Z1T3psbXNBbw?oc=5",
+   "k": "LME, 사상 초유의 공급 부족 사태 완화를 위해 칭산, 화풍의 인도네시아산 알루미늄 승인",
+   "d": "2026-11-26"
+  },
+  {
+   "s": "BigMint",
+   "t": "India's copper scrap market faces sharp correction amid declining global benchmarks",
+   "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQlFVLUFnWWZxcTc5MW1JUHR1RTYxdGJ1NGtKeExmbnV5Y3hjTE5DWHNkeTNrbHZSdHR4WUZQZExCR2pRYmVkYTBkTnZpMXg3TGFuNnBHeFBtaGRzaTNyczVZcm04NEttbzMtTHY1QmtxaFYxNHdMUXZYTS13V2NfM2ZfcUtyck43OHpsd01ZczJzelNQVzdBT25EZ0txSnA0blVRbHYtVUQ4OHFXQkZTOG9zUkVSSFJndk9ldVJnWTdENld2QmNz?oc=5",
+   "k": "인도의 구리 스크랩 시장, 글로벌 벤치마크 하락 속 급격한 조정에 직면",
+   "d": "2026-11-25"
   },
   {
    "s": "nigeriahousingmarket.com",
