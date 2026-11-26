@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T12:06+09:00",
+ "updated": "2026-11-26T22:08+09:00",
  "items": [
   {
    "s": "BBC",
@@ -9,9 +9,8 @@
   },
   {
    "s": "CNBC",
-   "t": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
-   "u": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
-   "k": "젠슨 황의 엔비디아 복귀는 미-중 AI 경쟁이 칩 그 이상임을 보여줍니다."
+   "t": "Robots could be doing household chores in just 1-2 years, Chinese EV firm says",
+   "u": "https://www.cnbc.com/2026/11/26/china-ev-xpeng-humanoid-robots-household-chores.html"
   },
   {
    "s": "Guardian",
@@ -27,45 +26,35 @@
   },
   {
    "s": "Straits Times",
-   "t": "US leaves door open to lower Singapore tariff deal even as it proposes 20% levy",
-   "u": "https://www.straitstimes.com/business/us-proposes-new-tariff-of-up-to-20-on-singapore-but-leaves-the-door-open-to-a-deal",
-   "k": "미국, 20% 관세 부과를 제안하면서도 싱가포르 관세 인하 협상 가능성 열어둬"
+   "t": "CPF suppresses consumption? DPM Gan refutes US’ grounds for imposing higher tariffs",
+   "u": "https://www.straitstimes.com/business/cpf-suppresses-consumption-dpm-gan-refutes-us-grounds-for-imposing-higher-tariffs"
   },
   {
    "s": "Yonhap",
-   "t": "BOK chief sees improvement in S. Korea's potential growth rate",
-   "u": "https://en.yna.co.kr/view/AEN20261126006000320",
-   "k": "한국은행 총재, 한국의 잠재성장률 개선 전망"
-  },
-  {
-   "s": "Korea Herald",
-   "t": "N. Korea's Kim inspects nuclear material sites, calls for broader use of tactical nukes",
-   "u": "https://www.koreaherald.com/article/10950253",
-   "k": "북한 김정은, 핵물질 시설 시찰하며 전술핵 확대 사용 촉구"
+   "t": "Lee touts new deposit system as effective in curbing illegal fishing by Chinese vessels",
+   "u": "https://en.yna.co.kr/view/AEN20261126011751315"
   },
   {
    "s": "SCMP",
-   "t": "China’s CATL faces a trillion-yuan question: how to win back investor confidence",
-   "u": "https://www.scmp.com/business/climate-and-energy/article/3375822/chinas-catl-faces-trillion-yuan-question-how-win-back-investor-confidence",
-   "k": "중국의 CATL, 1조 위안 규모의 난제에 직면: 투자자 신뢰 회복 방법은?"
+   "t": "China’s tech ambitions to stay on track despite Shanghai party chief’s ouster: analysts",
+   "u": "https://www.scmp.com/tech/big-tech/article/3375938/chinas-tech-ambitions-stay-track-despite-shanghai-party-chiefs-ouster-analysts"
   },
   {
    "s": "Economic Times",
-   "t": "Trump's tariff move is about power, not popularity",
-   "u": "https://economictimes.indiatimes.com/news/international/world-news/for-trump-doubling-down-on-tariffs-is-about-power-not-popularity/articleshow/136176235.cms",
-   "k": "트럼프의 관세 조치는 인기가 아닌 권력에 관한 것이다"
+   "t": "17% US trade tariff offers little export advantage: FIEO",
+   "u": "https://economictimes.indiatimes.com/news/economy/foreign-trade/even-17-tariff-under-india-us-trade-deal-may-offer-little-competitive-advantage-to-indian-exporters-fieo/articleshow/136191482.cms"
   },
   {
    "s": "BBC",
-   "t": "Energy price increase 'could put me in hospital'",
-   "u": "https://www.bbc.co.uk/news/articles/cm5y1g42x2wzo",
-   "k": "에너지 가격 인상으로 '병원 신세를 질 수도 있다'"
+   "t": "Energy bills to rise by 26% from January after gas prices surge",
+   "u": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o",
+   "k": "1월부터 에너지 요금 26% 인상 예정"
   },
   {
    "s": "CNBC",
-   "t": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
-   "u": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html",
-   "k": "연준의 존 윌리엄스 총재, 인플레이션 대응을 위해 '시간이 지남에 따라' 금리가 인상될 가능성이 높다고 시사"
+   "t": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
+   "u": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
+   "k": "젠슨 황의 엔비디아 복귀는 미-중 AI 경쟁이 칩 그 이상임을 보여줍니다."
   },
   {
    "s": "Guardian",
@@ -81,39 +70,35 @@
   },
   {
    "s": "Straits Times",
-   "t": "Australian inflation hots up in October, core hits two-year high",
-   "u": "https://www.straitstimes.com/business/australian-inflation-heats-up-in-october-core-hits-two-year-high",
-   "k": "10월 호주 물가상승률 상승, 근원물가지수는 2년 만에 최고치 기록"
-  },
-  {
-   "s": "Yonhap",
-   "t": "U.S. military confirms inactivation of Apache helicopter squadron in S. Korea",
-   "u": "https://en.yna.co.kr/view/AEN20261126005500315",
-   "k": "미군, 한국 주둔 아파치 헬리콥터 비행대대 해체 확인"
+   "t": "Indonesia plans fee of 0.5% of export value of palm oil, association says",
+   "u": "https://www.straitstimes.com/business/indonesia-plans-fee-of-0-5-of-export-value-of-palm-oil-association-says"
   },
   {
    "s": "Korea Herald",
-   "t": "S. Korea's spy agency denies report about China's alleged proposal for anti-US operations",
-   "u": "https://www.koreaherald.com/article/10949989",
-   "k": "한국 정보기관, 중국의 대미(對美) 작전 제안 의혹 보도 부인"
+   "t": "Unification minister nominee vows pragmatic North Korea policy",
+   "u": "https://www.koreaherald.com/article/10950929"
   },
   {
    "s": "SCMP",
-   "t": "AI turmoil spurs risk-off mode as China government bond yield slides to record low",
-   "u": "https://www.scmp.com/business/china-business/article/3375721/ai-turmoil-spurs-risk-mode-china-government-bond-yield-slides-record-low",
-   "k": "AI 혼란으로 인해 중국 정부채 수익률이 사상 최저치로 하락하면서 위험 회피 모드가 가속화되고 있습니다."
+   "t": "Carmakers look to strengthen China’s electric mobility lead at Guangzhou auto show",
+   "u": "https://www.scmp.com/business/china-business/article/3375841/carmakers-look-strengthen-chinas-electric-mobility-lead-guangzhou-auto-show"
   },
   {
    "s": "Economic Times",
-   "t": "US flags Chinese surveillance of Alice during affair",
-   "u": "https://economictimes.indiatimes.com/news/international/world-news/nvidia-ceo-us-intelligence-flags-possible-chinese-surveillance-of-alice-huang-cbs-news-says/articleshow/136175775.cms",
-   "k": "미국, 중국이 불륜 중인 앨리스를 감시하고 있다고 지적"
+   "t": "How Trump's tariff salvo for India compare with rivals",
+   "u": "https://economictimes.indiatimes.com/news/economy/foreign-trade/how-donald-trumps-proposed-fresh-tariff-salvo-for-india-compare-with-rival-nations/articleshow/136184609.cms"
   },
   {
    "s": "BBC",
-   "t": "Scots react to news of rising energy prices",
-   "u": "https://www.bbc.co.uk/news/videos/cmqlq07d71yko",
-   "k": "스코틀랜드인들이 에너지 가격 인상 소식에 반응하다"
+   "t": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
+   "u": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o",
+   "k": "'저는 일요일에만 세탁기를 사용합니다' - 에너지 비용을 절감하는 방법"
+  },
+  {
+   "s": "CNBC",
+   "t": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
+   "u": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html",
+   "k": "연준의 존 윌리엄스 총재, 인플레이션 대응을 위해 '시간이 지남에 따라' 금리가 인상될 가능성이 높다고 시사"
   },
   {
    "s": "Guardian",
@@ -129,93 +114,86 @@
   },
   {
    "s": "Straits Times",
-   "t": "Asian stocks tumble as AI rally fizzles and Trump tariff fears return",
-   "u": "https://www.straitstimes.com/business/companies-markets/asian-stocks-tumble-as-ai-rally-fizzles-and-trump-tariff-fears-return",
-   "k": "AI 랠리가 시들고 트럼프 관세 우려가 다시 고개를 들면서 아시아 증시가 급락했습니다."
+   "t": "Over $9 billion of S’pore goods affected by US tariffs; trade deal will involve compromises: DPM Gan",
+   "u": "https://www.straitstimes.com/business/over-9-billion-of-spore-goods-affected-by-us-tariffs-trade-deal-will-involve-compromises-dpm-gan"
   },
   {
    "s": "Yonhap",
-   "t": "U.S. expected to maintain agreed-upon 15 pct tariff rate for S. Korea, issues warning on chips",
-   "u": "https://en.yna.co.kr/view/AEN20261126003300320",
-   "k": "미국, 한국에 대해 합의된 15% 관세율 유지 예상, 반도체 관련 경고 발령"
+   "t": "S. Korea secures final victory in ISDS case brought by Iran's Dayyani family",
+   "u": "https://en.yna.co.kr/view/AEN20261126010600315"
   },
   {
    "s": "Korea Herald",
-   "t": "BOK revises up S. Korea's 2026 growth outlook to 3.9%, 4.1% for 2027",
-   "u": "https://www.koreaherald.com/article/10949966",
-   "k": "한국은행, 2026년 한국 성장률 전망치를 3.9%, 2027년에는 4.1%로 상향 조정"
+   "t": "Can foreigners talk politics in Korea? Landmark ruling challenges blanket ban",
+   "u": "https://www.koreaherald.com/article/10950928"
+  },
+  {
+   "s": "SCMP",
+   "t": "China pushes brain-computer interface breakthroughs as Neuralink advances towards market",
+   "u": "https://www.scmp.com/business/china-business/article/3375858/china-pushes-brain-computer-interface-breakthroughs-neuralink-advances-towards-market"
   }
  ],
  "metals": [
   {
-   "s": "Mining.com.au",
-   "t": "Copper price sinks to 11-month low as tariff, rate hike fears grip markets",
-   "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE40ZlZmZGZsREVobjVlMk1JVTN1SHJkdkhCenBjUzVjdkROMUx0MjZNZWFOYkUyZnM4WURyTHNSc2F5OTN1Nk9Oc20wUGl1bTRVZ1lDeXUxd1huSnc2UkhMYXEtT0xtRlB6?oc=5",
-   "k": "관세 및 금리 인상 우려가 시장을 휩쓸면서 구리 가격이 11개월 만에 최저치로 하락",
+   "s": "Bloomberg.com",
+   "t": "China’s Copper Crunch Hides a Fragile Demand Outlook",
+   "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWlFkSHE0alpVOGJ2M29ISW9qQ3dlaWNjeGVEdlF3QVJEa3pfVzNVMGhQZGl3ZEpiNUttRE5qcGdrRTNyekRkQW9yME8yUTgxSk5GMG5QWGRBVXRqQXYwUXRFNDBJUk9uNW5mZWp6U29senh5MFBzbzJQMnkzUklKaHhhRnNmdklMUXBRMVlQUm9JWDYzaXpDTzFNZTNjTERqdXk0LXFUZXc4dw?oc=5",
+   "d": "2026-11-26"
+  },
+  {
+   "s": "Financial Times",
+   "t": "Trafigura calls for greater European metals support after shutting smelter",
+   "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUVVoTy1tN0hJejhoSFF4YnRHTHkzXzNwUFVzcHpvYk11YS1ZckpyNTVuRm45QzNFNGZQNFFoRGd6ZmV3cHhtdGUzd1dkcm5RcGtBeHNtWURzdFNWVWhVVnQ5d1F0a1pHd1JYcmxQYUVrNlZBT0MxQ19xOEFYZmRQVzRreVM?oc=5",
+   "d": "2026-11-26"
+  },
+  {
+   "s": "Reuters",
+   "t": "TSX futures flat as copper, silver rebound offset oil slip",
+   "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOHZaRlo1ZDVoeGx6WTAzbnVNcHBJZHY2TFF1dk41aGdQYUdJR0hLTUEwR2ZHN2Z0ZlAydE5XUmVTc2twUW9IeXkxX1ZRdTEwSGx3VkxmRklONGtuNEpaZ1pmNF9oc1VXbVJQaFF2SVJadS1wMEgtT2tYRlduNi12WEs5bWFkcmhNaDdBcWM3czBFQWM4SzhUamItanY2dHBQbnIySmFTZHM?oc=5",
+   "d": "2026-11-26"
+  },
+  {
+   "s": "IG",
+   "t": "DAX 40, AUD/USD and copper price expected to bounce back.",
+   "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeUs0ek5Hd1Q3TXZzUEZOU0gwbC11YVdHRzZKeTVtQkVockdCLUlycmxFbVFQZ1dySkZ5YXllc3p5MlczcFQwcm5KRU1HdzVoUWZFU2dPT0poaG90WmtFWXQ4ck9QR3Zsa1daV2NYWmdNR1AwYmpWX2Fva0NyeXNrYnhiTi1sSjd5d1NBUEkwZF9LTlVPQjNiWlc3WHhoMWFDNEJ4RmlSVzAzUQ?oc=5",
+   "d": "2026-11-26"
+  },
+  {
+   "s": "Mining.com",
+   "t": "LME approves listing of Tsingshan’s Indonesian aluminum brand",
+   "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVmtoSElkWW1ZcnNWOEJ2cEZzcndaalpPb1JKa1NmaDNGLWhjOVdXNVpjVTNJaEREQnNlcGR0SG1ORzJLRWxmWTJnam1YUVd1d0V3eUhmV1BTN3g5WWJINkZhaXVERGdXZmFQNUFUbHR0djZzRzZURkhjZzk3N29LZTJjQUY4VFdJMDZRc0lBZFdXZw?oc=5",
+   "d": "2026-11-26"
+  },
+  {
+   "s": "AL Circle",
+   "t": "LME approves Indonesian HCAI aluminium brand for delivery against high-grade contract",
+   "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaFBtUEVxUEpER1dLMXZFck12WktlYlVtSWFmM3o3V3g0aEh1S1N6ZXdMMFZvRUVMNjVwM2tpSmx6R1FYa19lMFpxZFFTSG16MWhROWNvWjNYTlFOdnVsNzVLZENwbHlDRHlLS3pXbE44MUROOFY1VFAzV1dkOVJtNDZVNTNZRnVjb1RjbHRLV2s2YVZSRHhpUlNiZmtWdFBjejNrVEJSS1ZwQkF2aXNXb3pMb2Q3RENUWVpHcWhnSQ?oc=5",
+   "d": "2026-11-26"
+  },
+  {
+   "s": "Engineer Live",
+   "t": "New metal recycling research from Coventry University",
+   "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOREVEYXMycGdiZ01zM0NoZW05MW1PLUpDQTJHLTRnR3R6ZTNiRzhQQkJUYm9tWXYtNnFUUjVacFBUc3JiMVVfYzBqQk5wOEJVcF9KSU5zUEUyeS11YnhyMGtHcnVTZnZtZ2FRc0VVZk5kUlpBQVY3WkF1RkV2M3lvQTRkNW4xQQ?oc=5",
+   "d": "2026-11-26"
+  },
+  {
+   "s": "letsrecycle.com",
+   "t": "West Midlands waste and metal recycling site sells for £2.8m",
+   "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZG5sOEVBc200V1l5LTE1UnZsb3pyd3BZNVN4Nm56S08tVWVmUUktdU16TTZBNHdLNHczM3RYZGtfYldmU2lHMXcwLTNERG1XeVdzRjJqTXZqN0U4amlSQjVFMzBxdk8xeVlSX1U5UTZJaWdnYURNYmlEUXJnSUVfMmJlTkRlbzBvNFNvLWVZcUxNS19zQ3lWWg?oc=5",
    "d": "2026-11-26"
   },
   {
    "s": "Shanghai Metals Market",
-   "t": "Copper Wire and Cable Exports Edge Up in October Regional Markets Show Structural Divergence",
-   "u": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNRGNubFRtVUN5U096NWdUcDIzTDljcTR5Vk4wUUtRSFdmWm5Id2JpVE5ET0VmZW5rTzVKZEpkZzVNenZ1ajJuUG94d2I4V2J2Y3NBTWMzZGY5ZzlfUmZFNWN3YWM2bXZmV2VJVEdtMlBYM2ZGN3pRT255Qm1JMDY4TVVOOV92QVlBT0YwMWh0NzJhZXVfRGI3OVFTSGVoZEhpVFA2a0JWTHVtd2xicDgyODRkdXhnVWpaY2xnaEdEMExuR1NQOVl0a1FBT2p5MGRSNkJJSWRrYmFhaDJyWk16cVJwc2xyWko5NW9aMzJGc0RnajRYa1VjNkctMA?oc=5",
-   "k": "10월 구리 와이어 및 케이블 수출액 소폭 상승 지역 시장별 구조적 차이 나타나",
-   "d": "2026-11-26"
-  },
-  {
-   "s": "Robinhood",
-   "t": "Copper Price November 27 2026",
-   "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbzdHQVFFeDlyZF9vSm9tMWtVQnlFd2ZfQTRYVEQ1SVFyYTdVV3AyOTBJb05OQkxVdENNN1V3SHplMXVWMVhrMExOQ0Nkb1NfQ0t0aUJGMzhwQWMzd18zcUJ2dTBqMm5NdlJEcFZSUFhZMTJrSkJlS3BrdGl6aXdIcUp3akJQV185WG9rc01UUUp4ZnktWjdjNkp3azV3TUJYYldUbWl3?oc=5",
-   "k": "2026년 11월 27일 구리 가격",
-   "d": "2026-11-26"
-  },
-  {
-   "s": "Shanghai Metals Market",
-   "t": "Aluminum prices plunged today, spot market significantly weakened [SMM South China spot aluminum daily review]",
-   "u": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNY21WSEpzT0oxZ1VQOWxxSDdIV0NvT1g4eW92UF9UNWJIaFpybmVYZ08xbC11aFlKM05tTmhVMVNDWVVQQ2QzZEpqRWpYcUEycjRtdFp1Z3ZXRVo4LTluci12RWdfdjd2UEVsS2dKQUNYQWpIOWcybzVvSzd0Z2RDMEVkSG9sN2prN0d2elBfVXpuMFRfNzY1d3JOcXVpN2FWX1ZvdUdsWTJEeWFoX1F1VldHbEdTdnNRSFE2ZXJJdmh4NHd3UndYdkNUMUJrc1Z3bjBxX3pUR0lzZnpLMFJ5RGFaTGlGMjdGUERYbDhEcjROM0R3XzJZMmdXLTFXc0dGSDdXUjluWFJfQjhkeDI0?oc=5",
-   "k": "오늘 알루미늄 가격 급락, 현물 시장 크게 약세 [SMM 중국 남부 알루미늄 현물 일일 동향]",
-   "d": "2026-11-26"
-  },
-  {
-   "s": "Geomechanics.io",
-   "t": "Copper price sinks to 2026 low: risk and project economics lens for mine planners",
-   "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORFNvNUN2cWxuSk4tWl95MEVJbmlHcHFyQ2ZHWUF6MjJIQWxhQVV6akhZVTVhU3BDZVc0d3Z5Wm1UZzhHUmdDakxIa2ZWUExKa3JkLURneUdLRm1PanRQZWw2ZlZBbXJPbW9SX0JLYzAxSGNXU1pOQ3FpaFdPdHVyWmxrS0kzVWhBbC1DLU5rZG9TcVNLQktEUFFXQ1dhdE1rMWFReFI2V0FKa09jaWJqdWI4QTliX0NNcFhlb193?oc=5",
-   "k": "구리 가격, 2026년 최저치로 하락: 광산 계획 수립자를 위한 위험 및 프로젝트 경제성 분석",
-   "d": "2026-11-26"
-  },
-  {
-   "s": "NAI500",
-   "t": "LME Approves Indonesian Aluminium from Tsingshan, Huafon to Ease Historic Squeeze",
-   "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOT0NUU3BfbWtMMEdDN3NIbnpLM1BMVXJYN05OaHZhSklpUTRsNWVuOTZuNjhKTG1FMGJhQ2F2ZlFmU2dqSU9iTGE0a0k2V2YyX3lTZHBBeEk1NWhvcnlHOEF6djM3UVkyRXpSaXBuTFlsenFOb1haX0x0cmdEbDdBblMtd1lqMmtXWmNCUExqVlRVYndnOGhJSC0zVXZMeWx5dmdlRFhmb1U4c1Z1T3psbXNBbw?oc=5",
-   "k": "LME, 사상 초유의 공급 부족 사태 완화를 위해 칭산, 화풍의 인도네시아산 알루미늄 승인",
+   "t": "Overseas Bare Bright Copper Scrap Pricing Ratios Exceed 100% amid High Copper Cathode Premiums",
+   "u": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPS0NxWmRNODM5dVVWemI0Zm82OVNJWmtiT202QjFWWGtSdFdweHBpc0FUNWYzQnQtb1dLUlp5UEIySmZFVm1KUkJFY2F5M05BWHc5OEVrcHNHcFBIQ2FHcEJVTnU2UGJwcHVSbHhHOHVPckZkalZqR29kdjFJQVk4eTVZX1hjQmNRMWV0eEJQbkI4WU5fUkF2a2duQUwybFJ0SFlmOFlRaXlMbmZlazM3eUJ5dlBObjFRdE5DUVkyV0NUbk1oMlZFc3ktMmJuMm1SVTVWTUZZOHUxWWtqTmFxRzhCTlFfRVp2OHpNVDJCRktJdk9pMVNJZjRFWXA?oc=5",
    "d": "2026-11-26"
   },
   {
    "s": "BigMint",
    "t": "India's copper scrap market faces sharp correction amid declining global benchmarks",
-   "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQlFVLUFnWWZxcTc5MW1JUHR1RTYxdGJ1NGtKeExmbnV5Y3hjTE5DWHNkeTNrbHZSdHR4WUZQZExCR2pRYmVkYTBkTnZpMXg3TGFuNnBHeFBtaGRzaTNyczVZcm04NEttbzMtTHY1QmtxaFYxNHdMUXZYTS13V2NfM2ZfcUtyck43OHpsd01ZczJzelNQVzdBT25EZ0txSnA0blVRbHYtVUQ4OHFXQkZTOG9zUkVSSFJndk9ldVJnWTdENld2QmNz?oc=5",
-   "k": "인도의 구리 스크랩 시장, 글로벌 벤치마크 하락 속 급격한 조정에 직면",
-   "d": "2026-11-25"
-  },
-  {
-   "s": "nigeriahousingmarket.com",
-   "t": "FG Plans New Rules for Scrap Metal Trade to Protect Cables, Railways",
-   "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMmhKWEVYa2xXWHpjeE5vZUxXYlppY3RWTjBCMkNZMmxNVTVRYjFSaVI3VkMyMm9TZGQzYVBGb3l1Nkx5aHVmbU91WUtUS2hubW4zbGhPSHdDd21TTVJOVVFVQnY4OHpzT3NIajlaLXptRmlTd2JRQVJ0S2NPTzZWbGJJcHpxTHdpWmdvYU1aZ3hBMC15d3JvOUVTZ3UzSFpwSHlz?oc=5",
-   "k": "연방 정부, 케이블 및 철도 보호를 위한 고철 거래 신규 규정 마련 계획",
-   "d": "2026-11-25"
-  },
-  {
-   "s": "AL Circle",
-   "t": "India: Imported aluminium scrap prices fall sharply on LME correction, weak demand",
-   "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTFMzdE10b2lUOG5MYnJaVU9JWFFsMV92OHcxaXJhWFBFSW1PZW9kYlhiVzdUd2VvS01qNkgzUEUyQnQxUk5WT1dqZHE2eTFmV2txV3NUYUVSdEJmNXhlV2sybFR2XzlnSFZ6MERRc0VmbDMwdVBVT0ZOUDJyR1JwRkk0S1lfazVJZDRPaGRvTlpKMFhIelVMUTlNQ2k3aEtJZkRXWFhVOE9RUUI3Sy1vUjZ6NTI5ZF9W?oc=5",
-   "k": "인도: LME 가격 조정, 수요 부진으로 알루미늄 고철 수입 가격 급락",
-   "d": "2026-11-25"
-  },
-  {
-   "s": "HESPRESS English",
-   "t": "Morocco proposes independent audits to preserve EU scrap metal imports",
-   "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUUlCNXBZQVZTODNhRUZ3WGZwNDlUZWEzTXhScFFFaGtrRVVSancyUlRLVDlTWHVzdl9ObUZ4S3dvYWFtU3ZDN2d1ckw1VmJTX1BleWYzRWNDWGpwZVVsT2llM0tiWkhLWmhDNWtldDhfR0ZZTGZ1LTh2UC1TZDRaTjQyRHZKazNIbEdVRjZHak5zV0VLVkFZMnR4bTAyRTM4THVGd0JmMjhkUQ?oc=5",
-   "k": "모로코, EU 고철 수입을 유지하기 위한 독립 감사 제안",
-   "d": "2026-11-25"
+   "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZ1hjZFVkd2JGeVppVExPTjRldlFWa1lMbHd0a19GSDVEZXNLY09jaDZsWHdMeVNfcy1NR1BrdnphaTk4SnRaXzQ4U1hveC12NGJhZ2o5bl9hWUtsamQwUmkzX01qUVBBLVZJTkJhTVJHN0dhSmY5RUJTWEZPMmQ0c2lQTTRuWk5vZzhKQ3pGT295UV9JbGY3NzNkUzNVbDRGamJwdlhlakNaVmFYalB2cXhVX05wQXBjcmVJdWd2WDExLWFaR3R4dg?oc=5",
+   "k": "인도의 구리 스크랩 시장, 글로벌 벤치마크 하락 속 급격한 조정 직면",
+   "d": "2026-11-26"
   }
  ]
 }
