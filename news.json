@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T07:35+09:00",
+ "updated": "2026-11-27T13:31+09:00",
  "items": [
   {
    "s": "BBC",
@@ -33,27 +33,27 @@
   },
   {
    "s": "Straits Times",
-   "t": "CPF suppresses consumption? DPM Gan refutes US’ grounds for imposing higher tariffs",
-   "u": "https://www.straitstimes.com/business/cpf-suppresses-consumption-dpm-gan-refutes-us-grounds-for-imposing-higher-tariffs",
-   "k": "CPF가 소비를 억제한다? 간 DPM, 미국이 관세를 인상한 근거를 반박하다"
+   "t": "Asian shares find footing after bruising month; US dollar set for third monthly gain",
+   "u": "https://www.straitstimes.com/business/asian-shares-find-footing-after-bruising-month-us-dollar-set-for-third-monthly-gain",
+   "k": "아시아 증시, 한 달간의 하락세 이후 안정세 찾음. 미국 달러화, 3개월 연속 상승세 전망"
   },
   {
    "s": "Yonhap",
-   "t": "(EDITORIAL from Korea JoongAng Daily on Nov. 27)",
-   "u": "https://en.yna.co.kr/view/AEN20261127000800315",
-   "k": "(11월 27일자 중앙일보 사설)"
+   "t": "N. Korean defector in custody after unauthorized entry into restricted front-line border area",
+   "u": "https://en.yna.co.kr/view/AEN20261127003351315",
+   "k": "북한 탈북자가 출입이 통제되는 최전방 접경 지역에 무단으로 진입한 후 구금됨"
   },
   {
    "s": "Korea Herald",
-   "t": "Lee touts new deposit system as effective in curbing illegal fishing by Chinese vessels",
-   "u": "https://www.koreaherald.com/article/10950988",
-   "k": "이재명, 중국 선박의 불법 조업을 억제하는 데 효과적인 새로운 보증금 제도를 홍보하다"
+   "t": "Samsung Bioepis taps Chinese biotech startup to expand global R&D network",
+   "u": "https://www.koreaherald.com/article/10951731",
+   "k": "삼성바이오에피스, 글로벌 R&D 네트워크 확장을 위해 중국 바이오테크 스타트업과 협력"
   },
   {
    "s": "SCMP",
-   "t": "China’s tech ambitions to stay on track despite Shanghai party chief’s ouster: analysts",
-   "u": "https://www.scmp.com/tech/big-tech/article/3375938/chinas-tech-ambitions-stay-track-despite-shanghai-party-chiefs-ouster-analysts",
-   "k": "상하이 당 서기 해임에도 불구하고 중국의 기술 부문 야망은 변함없을 것: 분석가들"
+   "t": "Beauty defies consumers’ spending slowdown as China’s brands look to expand globally",
+   "u": "https://www.scmp.com/business/china-business/article/3375887/beauty-defies-consumers-spending-slowdown-chinas-brands-look-expand-globally",
+   "k": "중국 브랜드가 글로벌 진출을 모색하는 가운데 뷰티 산업은 소비자 지출 둔화에 맞서고 있습니다."
   },
   {
    "s": "Economic Times",
@@ -87,39 +87,27 @@
   },
   {
    "s": "Straits Times",
-   "t": "Indonesia plans fee of 0.5% of export value of palm oil, association says",
-   "u": "https://www.straitstimes.com/business/indonesia-plans-fee-of-0-5-of-export-value-of-palm-oil-association-says",
-   "k": "인도네시아, 팜유 수출액의 0.5%를 수수료로 부과할 계획이라고 협회 발표"
+   "t": "Tokyo’s faster pace of inflation backs case for Bank of Japan rate hike",
+   "u": "https://www.straitstimes.com/business/tokyos-faster-pace-of-inflation-backs-case-for-bank-of-japan-rate-hike",
+   "k": "도쿄의 빠른 인플레이션 속도가 일본은행의 금리 인상에 힘을 실어줍니다."
   },
   {
    "s": "Yonhap",
-   "t": "(EDITORIAL from The Korea Times on Nov. 27)",
-   "u": "https://en.yna.co.kr/view/AEN20261127000700315",
-   "k": "(11월 27일자 코리아타임스 사설)"
+   "t": "N. Korean fishing boat repatriated, with 1 crewman opting to stay in S. Korea",
+   "u": "https://en.yna.co.kr/view/AEN20261127003651315",
+   "k": "북한 어선 송환, 선원 1명은 한국에 남기로 결정"
   },
   {
    "s": "Korea Herald",
-   "t": "Unification minister nominee vows pragmatic North Korea policy",
-   "u": "https://www.koreaherald.com/article/10950929",
-   "k": "통일부 장관 후보자, 실용적인 대북 정책 약속"
+   "t": "N. Korean troops cross inter-Korean border about 40 times over past 2 months: lawmaker",
+   "u": "https://www.koreaherald.com/article/10951684",
+   "k": "북한군, 지난 2개월간 남북한 군사분계선 약 40회 넘어: 국회의원"
   },
   {
    "s": "SCMP",
-   "t": "Carmakers look to strengthen China’s electric mobility lead at Guangzhou auto show",
-   "u": "https://www.scmp.com/business/china-business/article/3375841/carmakers-look-strengthen-chinas-electric-mobility-lead-guangzhou-auto-show",
-   "k": "자동차 제조업체들이 광저우 모터쇼에서 중국의 전기 모빌리티 선도 지위를 강화하고자 합니다."
-  },
-  {
-   "s": "Economic Times",
-   "t": "17% US trade tariff offers little export advantage: FIEO",
-   "u": "https://economictimes.indiatimes.com/news/economy/foreign-trade/even-17-tariff-under-india-us-trade-deal-may-offer-little-competitive-advantage-to-indian-exporters-fieo/articleshow/136191482.cms",
-   "k": "17%의 미국 무역 관세는 수출에 거의 이점을 주지 못함: FIEO"
-  },
-  {
-   "s": "BBC",
-   "t": "Energy bills to rise by 26% from January after gas prices surge",
-   "u": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o",
-   "k": "1월부터 에너지 요금 26% 인상 예정"
+   "t": "China’s property debt crisis deepens as second wave of restructurings looms",
+   "u": "https://www.scmp.com/business/markets/article/3375947/chinas-property-debt-crisis-deepens-second-wave-restructurings-looms",
+   "k": "중국의 부동산 부채 위기가 심화되면서 두 번째 구조조정 물결이 다가오고 있습니다."
   },
   {
    "s": "CNBC",
@@ -141,52 +129,71 @@
   },
   {
    "s": "Straits Times",
-   "t": "Over $9 billion of S’pore goods affected by US tariffs; trade deal will involve compromises: DPM Gan",
-   "u": "https://www.straitstimes.com/business/over-9-billion-of-spore-goods-affected-by-us-tariffs-trade-deal-will-involve-compromises-dpm-gan",
-   "k": "미국 관세로 인해 90억 달러 이상의 싱가포르 상품에 영향; 무역 협정에는 타협이 수반될 것: 간 키앙여 부총리"
+   "t": "CPF suppresses consumption? DPM Gan refutes US’ grounds for imposing higher tariffs",
+   "u": "https://www.straitstimes.com/business/cpf-suppresses-consumption-dpm-gan-refutes-us-grounds-for-imposing-higher-tariffs",
+   "k": "CPF가 소비를 억제한다? 간 DPM, 미국이 관세를 인상한 근거를 반박하다"
+  },
+  {
+   "s": "Korea Herald",
+   "t": "N. Korea's Kim attends Russian troupe's Pyongyang show amid deepening ties",
+   "u": "https://www.koreaherald.com/article/10951565",
+   "k": "북한 김정은, 양국 관계 심화 속 러시아 공연단의 평양 공연 관람"
+  },
+  {
+   "s": "SCMP",
+   "t": "China’s tech ambitions to stay on track despite Shanghai party chief’s ouster: analysts",
+   "u": "https://www.scmp.com/tech/big-tech/article/3375938/chinas-tech-ambitions-stay-track-despite-shanghai-party-chiefs-ouster-analysts",
+   "k": "상하이 당 서기 해임에도 불구하고 중국의 기술 부문 야망은 변함없을 것: 분석가들"
   }
  ],
  "metals": [
   {
-   "s": "Mining.com",
-   "t": "Iron ore price gains on expectations of winter restocking at Chinese mills",
-   "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMm9VWmtIQVM3M0RHUEd4aXptVmNTV3ZQNjA2c2hnMTJ0UGNMMXpRa3pZR1I5R3VFa00yTVZHR3I1LUg3WTItSTZkRnFnS1pqUlQxQUFsNWV1ZEp1U1BTQVFmV0Vjb3VtMHlDMFdnWHA1WGJHQ1o4dy1sc3FTeVJ3cUVTczNGMFhpbC1DN3VBY3RFLWhKUmJhZzl6QlhycDkyWUxacQ?oc=5",
-   "k": "중국 제철소의 겨울철 재고 보충 기대감에 철광석 가격 상승",
+   "s": "Shanghai Metals Market",
+   "t": "ADC12 aluminum futures rise for two consecutive days, spot supply-demand tug-of-war persists [ADC12 Price Daily Review]",
+   "u": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPLVFYa1NFeHh3Y0lFYVRGVGQyYVl5RXRxd1I1Y0xVcW1VaS1teVRES2JkajZGVVdzb2wxeVNpcFJmMEdMWHd4ZjFucFJzTUhRSnR4d25Zb0R5Nl9YOU9lSDZDekp4cFltOGFGNEVvTEdfNU1VemNuVURTeUstYWh3cndhZWxYaWVCN1NJRU5ndnp5SnI1Y2tSNFZMRUoyRi13RHlOT291eHZIX0hUNmowY2Y3TTNDY0hrVGhvOFpySjl2NldGN1pCZGJ3ekVwQ1ZNYUY5cFYwakZ6aU80NHVaSmVlc0pqNzFSaGNtZkNOalF2ekV3Um5ZZWd3SG56dnJfdklXa0J0WnVTc05GMFcxYUd6NTlEQWdscXhvTXdMRQ?oc=5",
+   "k": "ADC12 알루미늄 선물 가격이 이틀 연속 상승, 현물 수급 균형 유지 [ADC12 일일 가격 동향]",
    "d": "2026-11-27"
   },
   {
-   "s": "Mining.com",
-   "t": "China’s lithium hydroxide futures tumble in debut as demand looks weak",
-   "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaTJwNnZpMGhrWGdyeGdzb3M3WGpYLWhlZjJCa2ZqZ1hKRjhFUmNwSkxGRWxKa3JYVmdIRHBKQkx3QTUtblVoZld6NmVFN09ZNnBIdXktVXNidF93U0ZBdW1TbDVUbmlkNklydDhib3k1UC1ZMmVLZTBoVGg3ZllBdFYyQmxVWnVpMWlrX2xUVTVFbzVwQVFpOThpWjNEQQ?oc=5",
-   "k": "수요가 부진해 보이는 가운데 중국 수산화리튬 선물 가격이 상장 첫날 급락했습니다.",
+   "s": "BigGo Finance",
+   "t": "LME Copper Rebounds 1.91% From 11-Month Low as All Six Base Metals Close Higher",
+   "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE91d0kzMGdlNHloZjlEd2JtMEtRb3ZTcGpuOG1ZWlZNV0ozWGQwLVN1MlVFcGpWcTFuaG56Z1JWQTlfcEUxZU50d291MUxObUNJdXFucGVvVjBySzFzeDItSXRaRGlQTjZuT1E5cmhTbXhhZS1VUFE?oc=5",
+   "k": "6대 비철금속 모두 상승 마감하며 LME 구리 가격, 11개월 만에 최저치에서 1.91% 반등",
    "d": "2026-11-27"
   },
   {
-   "s": "TradingView",
-   "t": "Price to sales forward of Copper Fox Metals Inc. – MUN:HPU",
-   "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdVB0NGpvcVdadk9kN3RxZXJ3b0pGV0Y2VHdGNkJVeUs0N29HMGpqSGxKeWluVEIxQm4wNUZJQnJhTUc1bXl2MVpOU29ic1YtQ0UtYTFFUWZnOHQyVDh2MHlzWGFXQTNGaDhZei1zS1BuMV90aExqNmF2MndVa3dScG5oNlNvd0tyNV9oZC1leDJya29BY2Q1bA?oc=5",
-   "k": "Copper Fox Metals Inc.의 주가 대비 매출액(P/S) 포워드 – MUN:HPU",
+   "s": "Shanghai Metals Market",
+   "t": "China Aluminum Market Weekly (20261126)",
+   "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNWNiQS00TXF4UVpueUJ4VHdJaU5nSUZzLWhFaEQ1Zjc2QkF0RWR6REhpNXRWZUFRV3ZSdlM5cmxsWEp2MUNRRmVjaDF4aDNNWjBoanc4bkNvZjVoakotXzBURmZ5VVRVRkpkU3A3UVhCM19pNXlQQS1KNFc5WFMzWTREUWxvdGd1VGZpTHd2NXdhYmk4WTQtRlV5aXlkNmRUOU5qRndyaGhoVDZNQ1BuNDhn?oc=5",
+   "k": "중국 알루미늄 시장 주간 보고서(20261126)",
    "d": "2026-11-27"
   },
   {
-   "s": "Traders Union",
-   "t": "Ongoing US tariff questions keep copper futures exposed to weaker demand signals",
-   "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeWZIOENUaWMtWjVqQUt3dld6TExqV3Zfa0RMTjQ3ektXUHo2eUpWV3FRb21mNjkyeGpjNjh1Vnp0dWxVYkFwbENoTjZuYzFIX3Rla205RVgtQ1BNcjR3UVAtYWRFZ0xnM1R1MGlFV05rUWpncnJHNWVzUG9QTzJCX2MydE85SGllTTJ3?oc=5",
-   "k": "미국의 지속적인 관세 문제로 인해 구리 선물은 수요 감소 신호에 계속 노출되어 있음",
+   "s": "Shanghai Metals Market",
+   "t": "Spot premiums pull back from highs as end-use demand follow-through remains weak [SMM North China copper cathode spot weekly review]",
+   "u": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNYWNpN0NPUjhlODRBVmQxWFRncGlwOHp1SUlXQTd4YkZtRnVKN3NVOTM3N0c0TTJxRFJjcjhwV0t6aFRGYkZqbU9Qb3NNUVFkancySFRYeW9vMEd1QXJBNVlydDl1OXE5ZURhQllMekVuQU4temZWVkpxMlBPSU5GSG5XdjFveEtPVzZwWEZDeGhtZnM4dFFJRFhkQzJqa0FyRUljeGg5enJ4TF8tTjFsY2xOdWNOajl3V1RtSFNiTG1faDdNb1lpWEo1dUpqeTBzb3pmQzVzME9rQUloRWZuTUVwV0VLSjlTa0I3LWNJZzZXUEJaaVV3NDJ4Mk1SamRyM2JGMFFuaHgyUWlXcTRDZ0I0Q2xFemdzZndJdU5nZnhMeTUtdzRIbm5peDhZQQ?oc=5",
+   "k": "최종 수요가 여전히 부진한 가운데, 스팟 프리미엄이 고점에서 하락 [SMM 북중국 전해동 스팟 주간 동향]",
    "d": "2026-11-27"
   },
   {
-   "s": "Kitco",
-   "t": "Copper price bounces as AI equities recover, zinc jumps by most since January",
-   "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcFB1LWEwWUNUbmhNUjhyUlU3UGFzNjgyd0tYX3NBYUkwRGVHTFlLWm5LcUtBdi1sOXpCQXlWcnhvZi1wRmVzNUl6ZE9xRTRkYlhOb1AyRlFWc2c1aDh1S1VRQzJ1MEtkRGpuWC15VTNJTkZwLTBUanZnbnVzQmY5bEZVYlFveWJ3bW13WG96Tms3NGhqR1gtMl8wWVZwbU11XzhzYkNuRFpMdTJBMlZ4ZlJLWXhiZw?oc=5",
-   "k": "AI 관련주 회복에 따라 구리 가격 반등, 아연은 1월 이후 최대폭 상승",
+   "s": "Shanghai Metals Market",
+   "t": "Copper price instability squeezes copper scrap supply, significantly dampening suppliers' willingness to sell [SMM Copper Scrap Weekly Review]",
+   "u": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQbFNJYThoajhfMklWUnl1ajlwVW9GNW1CMXZUa2FVNmtmTlpTQWgxSUZfS1ExdkU5ZGgzclNuMFU1MnZVSk9QakFXalFTTDd3bEY4N0pyUGZvQ0hsSUtXOTFfRUxIQUQwbm1OOEU3NU9WX05SQ2doRGJ6VklsQ09oT2d1cXJzeGloYkpZSG1VOHJ4Q0NCWGlXUnVKcmcwZHhxZm9UY0M1Z2NNV3B1TUo2dzNuYlYxMXhjVFZtcU03UFNEZy11OWU2N0ZiZGZjMmVJaWJlUWRGc0xTeU1DTkpQSFNRd1YzNEFTMkNrNlh6VjVSM0tnLWV1VXQyV19WODFWX3ZhS3B5Tm9SN3pJUFNvMVBxTW9KOTBXcVRJRkZzeTlOMG1RMms5LUJwMkhUT3Bxc05oOFgzRWI?oc=5",
+   "k": "구리 가격 불안정으로 인해 구리 스크랩 공급이 감소하고, 공급업체의 판매 의향이 크게 약화됨 [SMM 구리 스크랩 주간 동향]",
    "d": "2026-11-27"
   },
   {
-   "s": "www.tmgm.com",
-   "t": "Copper: Prices rebound following a steep monthly decline – ING",
-   "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUV9oWjBwVUVqWmE3YjFMOUJPbGk0c0JyWUFLaHloRC05TW1BOVUyQ3dNdHRaRUlzQ25aUW1KVC13WHNwYUdJZVZyQTlITEYxT05lM3ZiVFc3ZnI5czF1OVpoaC1iTnN4LTMxTHo0RUVTX2d2Z2ljREpQZWRQa1FLeGgyUUxsNExzWXFfd21WNFdtSFpqOEwySjBIdE1Ydlh6NEZRNzItNFZma1FSaG92ZmVxek4?oc=5",
-   "k": "구리: 급격한 월간 하락 후 가격 반등 – ING",
+   "s": "Shanghai Metals Market",
+   "t": "Metals broadly gained, with LME zinc, LME nickel, and SHFE silver leading the advance, LME copper, aluminum, lead, and tin collectively moving higher, iron ore ",
+   "u": "https://news.google.com/rss/articles/CBMirANBVV95cUxOeVhPaGp3QnBSMDRpWEpqQThMLUNuUzRUWWFSMG05M2FQRTVxVWh3QUY4XzRXQ21EVC1fMlZYVWdTT3JFd0JnV2JMTk8wdVFiQ3FuMl9vTUxXeWxHWmFteTNZaHpOSXl3X2tHeVMxcUlZWW45Z1gtbUVMMzRRcEg4cDJJNUpfRmMyNFpNTlRYSlFndTYxTmFXaFRrREdHS01YSHlQUHVqZVRuQnFqUS1CVjgxWVBkdk11TmhnWnJmZ3FkdVFfN1dIbGtjbW04b2t6LUg5YjRscHNtTllHM2N0ZTNxQ1hwVTBDSlVaakdHeDNrVTJxYUJ4QTFhMFZfQUFGdkRzNjJPS1diNy1MRzgtRkpkajFHYVFhZW1uMWhEcTVDeVphcHNtRk01ODNQZXgyYmNNUWplbzg4V1hBVjdpVEVfZ29uLTl4bUhSRWhGR01nb1BzOXk3TXBtQlRubkZjb3kwYnJXOVk4S0JzODVJR2xNc0hFLWZLelVpSEJOazhXbjhPanBwR01PZ2JtWlFyVm11aVM0Vm1hWHoyUllTbU9oV2pNTlRlcFc0bw?oc=5",
+   "k": "금속 가격은 전반적으로 상승했으며, LME 아연, LME 니켈, 상하이선물거래소(SHFE) 은이 상승을 주도했고, LME 구리, 알루미늄, 납, 주석이 함께 상승했으며, 철광석은",
+   "d": "2026-11-27"
+  },
+  {
+   "s": "Trinidad Guardian",
+   "t": "Browne warns scrap metal ban will drive trade underground",
+   "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUHgwaHlMSlFUdEZ0dDNWOFFoekhUeV9JM09QbENfZkFuUUE4bGlWalR0QmVWc1NvbzNjMnZ3NThzQ0UtZ3d6enN2Wm1VaU9reExldHNTVTBzTm5VdzNxWUY5ekF1UDJuWXZ2SldLMFVPeW9jMlpUdTBRWU9SelZ1ZDh2R1RibVNQOHNuemVOX2tLNldvZ0MzTUt0TkZTTEpzVW8tcG5lVW4zZERZaGJ0UFJ3?oc=5",
+   "k": "브라운 장관, 고철 수입 금지 조치가 불법 거래를 조장할 것이라고 경고",
    "d": "2026-11-27"
   },
   {
@@ -208,13 +215,6 @@
    "t": "West Midlands waste and metal recycling site sells for £2.8m",
    "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZG5sOEVBc200V1l5LTE1UnZsb3pyd3BZNVN4Nm56S08tVWVmUUktdU16TTZBNHdLNHczM3RYZGtfYldmU2lHMXcwLTNERG1XeVdzRjJqTXZqN0U4amlSQjVFMzBxdk8xeVlSX1U5UTZJaWdnYURNYmlEUXJnSUVfMmJlTkRlbzBvNFNvLWVZcUxNS19zQ3lWWg?oc=5",
    "k": "웨스트 미들랜즈 폐기물 및 금속 재활용장이 £280만(약 46억 6,000만원)에 매각되었습니다.",
-   "d": "2026-11-26"
-  },
-  {
-   "s": "Trinidad Guardian",
-   "t": "Peter must not pay for Paul in scrap metal trade",
-   "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORmdYQWZsUE5HZExpb0V0N1JpalRxdTBlbU5XOW9kWF9WcHRvLVl3ZFEtMGhUWkV2SnlYTzhxNDZ5Yy15X1NodWI2UnVXUVFMSzk3b2l5cEhWa3p1c01FLVI3aWM1ZlFZWHZkNmVESWdEMGNIek9lSHRMdGxxWDZYRm9yRjVtS09mTkhCdWdqbWRkOE16cU9xbWs5bVRQdml6S3hkN0hXcHo?oc=5",
-   "k": "고철 거래에서 다른 사람의 잘못을 대신 책임지지 않아야 합니다.",
    "d": "2026-11-26"
   }
  ]
