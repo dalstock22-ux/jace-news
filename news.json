@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-27T23:20+09:00",
+ "updated": "2026-11-28T07:55+09:00",
  "items": [
   {
    "s": "BBC",
-   "t": "Faisal Islam: Why Trump's new tariffs are less of a threat",
-   "u": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o",
-   "k": "파이살 이슬람: 트럼프의 새로운 관세가 덜 위협적인 이유"
+   "t": "Will new energy fixes cost more in January?",
+   "u": "https://www.bbc.co.uk/news/videos/cwjd7y4jk581o",
+   "k": "1월에는 새로운 에너지 요금이 더 많이 들까요?"
   },
   {
    "s": "CNBC",
@@ -18,6 +18,12 @@
    "t": "China reserves right to take ‘necessary measures’ after Trump’s new tariff proposals",
    "u": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
    "k": "중국, 트럼프 대통령의 새로운 관세 부과안에 대해 '필요한 조치'를 취할 권리를 보유한다고 밝혀"
+  },
+  {
+   "s": "MarketWatch",
+   "t": "Artificial intelligence usage is exploding, yet spending is stalling. Why a foundational rule of economics is breaking.",
+   "u": "https://www.marketwatch.com/story/artificial-intelligence-usage-is-exploding-yet-spending-is-stalling-why-a-foundational-rule-of-economics-is-breaking-9c7ad4b3?mod=mw_rss_topstories",
+   "k": "인공지능 사용이 폭발적으로 증가하고 있지만, 지출은 정체되고 있습니다. 경제학의 기본 원칙이 깨지는 이유."
   },
   {
    "s": "DW",
@@ -51,27 +57,21 @@
   },
   {
    "s": "Economic Times",
-   "t": "Gold, silver rates today: Check prices across brands",
-   "u": "https://economictimes.indiatimes.com/wealth/invest/gold-and-silver-rates-today-november-27-2026-check-24k-22k-20k-and-18k-gold-jewellery-prices-from-ibja-malabar-gold-diamonds-joyalukkas-kalyan-jewellers-and-tanishq/articleshow/136208766.cms",
-   "k": "오늘의 금, 은 시세: 브랜드별 가격 확인"
+   "t": "India's textile exporters race the tariff clock",
+   "u": "https://economictimes.indiatimes.com/news/economy/foreign-trade/indian-textile-exporters-rush-us-shipments-to-beat-proposed-25-tariff/articleshow/136232544.cms",
+   "k": "관세 인상 시한에 맞서 달리는 인도 섬유 수출업체들"
   },
   {
    "s": "BBC",
-   "t": "US announces new tariffs on host of countries including China",
-   "u": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o",
-   "k": "미국, 중국을 포함한 여러 국가에 대한 새로운 관세 부과 발표"
+   "t": "Faisal Islam: Why Trump's new tariffs are less of a threat",
+   "u": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o",
+   "k": "파이살 이슬람: 트럼프의 새로운 관세가 덜 위협적인 이유"
   },
   {
    "s": "CNBC",
    "t": "Robots could be doing household chores in just 1-2 years, Chinese EV firm says",
    "u": "https://www.cnbc.com/2026/11/26/china-ev-xpeng-humanoid-robots-household-chores.html",
    "k": "중국 전기차 업체, \"1~2년 내 로봇이 가사일을 할 수 있을 것\"이라고 밝혀"
-  },
-  {
-   "s": "Guardian",
-   "t": "UK food inflation could hit 5% next year, Bank of England says",
-   "u": "https://www.theguardian.com/business/2026/nov/25/uk-food-inflation-sharp-rise-next-year-mounting-cost-pressures-bank-of-england",
-   "k": "영국 중앙은행, 내년 영국 식료품 인플레이션이 5%에 달할 수 있다고 밝혀"
   },
   {
    "s": "DW",
@@ -104,16 +104,16 @@
    "k": "실패한 캘리포니아 억만장자 세금 제안, 중국 세무계에서 면밀히 검토"
   },
   {
-   "s": "CNBC",
-   "t": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
-   "u": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
-   "k": "젠슨 황의 엔비디아 복귀는 미-중 AI 경쟁이 칩 그 이상임을 보여줍니다."
+   "s": "Economic Times",
+   "t": "US goods trade deficit widens sharply in October",
+   "u": "https://economictimes.indiatimes.com/news/international/world-news/us-goods-trade-deficit-widens-sharply-in-october/articleshow/136225986.cms",
+   "k": "10월 미국 상품 무역 적자 폭이 크게 확대"
   },
   {
-   "s": "Guardian",
-   "t": "US inflation hits highest since May after prices climb 3.8% over the last year",
-   "u": "https://www.theguardian.com/business/2026/nov/25/consumer-prices-september-october-energy-inflation",
-   "k": "지난 1년간 물가가 3.8% 상승하며 미국 인플레이션이 5월 이후 최고치를 기록했습니다."
+   "s": "BBC",
+   "t": "US announces new tariffs on host of countries including China",
+   "u": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o",
+   "k": "미국, 중국을 포함한 여러 국가에 대한 새로운 관세 부과 발표"
   },
   {
    "s": "DW",
@@ -148,52 +148,59 @@
  ],
  "metals": [
   {
-   "s": "Bloomberg.com",
-   "t": "Copper Price Volatility Clouds Peru’s El Niño Relief Spending",
-   "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ2MxMUdyYzNYbVYwQ0E2YmhUTWEwTktRRGF0T0c1ZnFwQ3dMaDBuX1NwbkRDRUxFUE13RE50d2x5elpBcUkyUXFudlN5MmdfSFlJcVBvRGk1QThzN04wX1lpeTJOSjRjTXg1MEFoOWdvOGVxeVhWckZiRnlmUmpYUEs3SFAtVFdKSkQzckxDSmgzQXJRY1dmM3gxVFNHZEpnYVVUY281S09BbExlbjBEaDl3?oc=5",
-   "k": "구리 가격 변동성으로 인한 페루의 엘니뇨 구호 지출에 대한 불확실성",
-   "d": "2026-11-27"
+   "s": "Mining.com",
+   "t": "Copper price jumps most since January as short sellers retreat",
+   "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTDZjaFhudjR3WW5WQmNWV2dUZzQyWXEyNjFnQ1VYZFJzRkhfUmlhb2pHX2NCU0h0Z1dPdkpiYWJfLWR6TWNBa1dBNXY4aUNJYnRfOWUycmdvS2szeFdqTkxsRXlWNWVxRVE2a1J6NEdMRWlzaFVlVVZLaG5HX0RwWkFqVmkwYjZuMzlCLXQ5WQ?oc=5",
+   "k": "공매도자들이 물러나면서 구리 가격이 1월 이후 가장 큰 폭으로 상승",
+   "d": "2026-11-28"
   },
   {
-   "s": "ing think",
-   "t": "The Commodities Feed: Oil extends rally as copper rebounds",
-   "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWXVsOXA3eHZqb3dZTHBpd3dEX1Q2dEJCTkJvVV9zTHpVd1NxaFVRaG1MYnZQU1hSV1hTbGlucm5yMnFqTmE1ZFdmZGttZFNUYVoxYXNkS3Z3ZmhSeE1jTmk3eXFQQkxJVV9HSkZRZUh0YUNCOWdOYkdMVjVVbkg0eG1ORWk?oc=5",
-   "k": "원자재 피드: 유가는 상승세를 이어가고 구리는 반등",
-   "d": "2026-11-27"
+   "s": "BNamericas",
+   "t": "Codelco cuts copper output 9% through September, but raises contributions to Chilean treasury by 57%",
+   "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM054Z1B4dm1Wam80YjRULXdLckpNYlc1YUdxdzk4eVhXR0l5WDlSY21WQnpTRV9pN3N6UGMzVnZOZHM1bnVFZkFHdTA1UXR5b3lXSGFnS0JIWUJZRTVha0dKc1h5N2tZQWhvWHZnX1lkaDZaLUctb204QkJKcTF3U1RTUzhzTnV1VnJlYlI4NnZXV2pNVV80MElESlNEUC0tUFJtbGV5RWhTcHRfQzJSN0NtbFNwdWhZQllTUzN0TmlnRWFzREFueWJlM2c?oc=5",
+   "k": "Codelco, 9월까지 구리 생산량 9% 감축했지만 칠레 재무부에 납부하는 세금은 57% 증가",
+   "d": "2026-11-28"
   },
   {
-   "s": "The Globe and Mail",
-   "t": "TSX Futures Zoom on Gold, Copper",
-   "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPd1VoNHFDcUdfLVVaT3pmSG9xSmtwM3EzSDB3QjlXOXBRTVgzNjFBOWRfM0J4N0R6eFo3NGp5ZTN3M3JHVWF5SWk2TEJuMEtHRkFDSV8wQW41cVQyeG5kQ0JlZ2YzMUNmclRDVUduNVJpYVRFOXgzTzdOaVRaMHpGSzRsY1hma3Vqa0s3TkZyWVZpTzZpUWZRR1ZxRWZZZk5Vc0FnMWl6aFEwU0JpSjhvTV9QSGFjeFE?oc=5",
-   "k": "TSX 선물, 금과 구리에 집중",
-   "d": "2026-11-27"
+   "s": "Robinhood",
+   "t": "November 27, 2026: Copper 15 min · 2:15–2:30 PM EST Metals Prediction Market",
+   "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeldaVkEyekVNdWk1S0lDYjVweXEtWWxpNUt3VUVEc3ZvM2pmSlA3N2R6SF9qY0tKZmxTWTBUaktmMWFXWm5hSlpGRWJCbkJKb3R6RzBCODROT1ZfdzF0ZS15eDVFNVpaMjY2RVJ1OXkyWVVCUTJVRlBqdDVxcURMMEx0YjFlY0xrOXcyRkFYQng2a2VaLUJYelVvSkhZZWJlVmpr?oc=5",
+   "k": "2026년 11월 27일: 구리 15분 · 오후 2:15~2:30(미 동부 표준시) 금속 예측 시장",
+   "d": "2026-11-28"
   },
   {
-   "s": "TradingView",
-   "t": "Copper sweeps higher as China offers stock market support",
-   "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVTRLaTMteEpIVFBZTHZwUFVzNUVabTV1WktTR0R4elV3VVZ1Q0lyRmhKLUs4U3FIM2FQNHQ2bmlLODFqX2ljc2pWSGJXQXByMlYzdldYNGwwSGxfSGRrTk9ucTBtV1RwaS1XWERWSlN4bmN4enBuQWFuRDNNanNJclZPanA1S0JqVDBQNEdvVkdhWEJhLXpMMWlVUEpyNnRWNkpHanQtMkNQazlTTFBPbnZXOHJZOVhvWHl6WGhsMnpTY1dmMlE?oc=5",
-   "k": "중국이 주식 시장 지원에 나서면서 구리 가격 상승",
-   "d": "2026-11-27"
+   "s": "Robinhood",
+   "t": "Copper Price November 27 2026",
+   "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbzdHQVFFeDlyZF9vSm9tMWtVQnlFd2ZfQTRYVEQ1SVFyYTdVV3AyOTBJb05OQkxVdENNN1V3SHplMXVWMVhrMExOQ0Nkb1NfQ0t0aUJGMzhwQWMzd18zcUJ2dTBqMm5NdlJEcFZSUFhZMTJrSkJlS3BrdGl6aXdIcUp3akJQV185WG9rc01UUUp4ZnktWjdjNkp3azV3TUJYYldUbWl3?oc=5",
+   "k": "2026년 11월 27일 구리 가격",
+   "d": "2026-11-28"
+  },
+  {
+   "s": "Digg",
+   "t": "LME intervention eases aluminum squeeze, but stocks remain low, CNBC reports",
+   "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53c3dvb0NQNlZBcDl0cGdDbTJDQTJRYWw4bkZES1MzQjNUZWQwRkJsQThUdnZJd0ZqZUNISGZMcEd2Z2FQVlpxQkhkZHlnSUh1REE?oc=5",
+   "k": "LME의 개입으로 알루미늄 수급난이 완화되었지만, 재고는 여전히 낮은 수준이라고 CNBC가 보도했습니다.",
+   "d": "2026-11-28"
+  },
+  {
+   "s": "Traders Union",
+   "t": "Renewed trade tariff uncertainty and inflation concerns deepen risk context for copper futures",
+   "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUzZNR0ZqUmJ1dUhEOW9FRVlGeTVMRWpiWmNMMXFwa1k4NUY1T1hXMTFqNkR6clZTVVVDRlpucHFSdWRoeDlneUtoZ0EzUDQ0NVd3V3NVWURPbnlncG1JbUtnQ1I3QVE1RmlqNnpBYzdKeHdyUjBFZ3BiSTM2XzRKM3Q3WHJPdjl6bTN2NWJxOA?oc=5",
+   "k": "무역 관세 불확실성 재연 및 인플레이션 우려로 구리 선물 시장의 위험 요인 심화",
+   "d": "2026-11-28"
+  },
+  {
+   "s": "Offaly Live",
+   "t": "25,000 tonne metal recycling facility planned for Offaly site",
+   "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObDl4SEpfTXNod0dDNlN5RVM1dkxUNFlISWZGV3doeEdmbkJUM1JCVE0wdXdJY0lMeXNGMzdYVmIySjB4OWJGMC03ejdsQ05nMmRHUzhRSnZmUzMtMVYxNWpHTmljemZiWVhHXzB6WWk0c1A4QzhUbWoxTTQwMXNNdXRZaE9WTVpTTkRRZUxxMkZGaVFITFkxaVZoSVNILWkyM0ZSQnVmOUh6RFU?oc=5",
+   "k": "오팔리 부지에 25,000톤 규모의 금속 재활용 시설 계획",
+   "d": "2026-11-28"
   },
   {
    "s": "Ricicla News",
    "t": "Waste exports: EU delays authorised countries list as Egypt and Morocco challenge scrap metal restrictions",
    "u": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPclRCOTdtRm1yTFg1RkxmdkJFcExhRF9Wcm1lRnU2Rms5RG5vUUFqX3hkdHVKVEpfWG9yUkNhb2NMbHZLOG1jODNtdmZnY29iVFI2UWxKSVNJYmllYk1FVGNmcGUzc1FfV24ydWpOLTdHUzNWbl9iWlNIMU54NmNwRkJMelhXTzZMZVhpdkN2c0xBN0VOODVFYjlxR1ZTcnFMTXR4UnBjUzJnaFFuUW5RSGpvWUhUajE0ZFVaNXhCSFRhWGtqQV8yeTdvcVVPdFpSVGRONTVRNEhGeHN1Q0JqZlVpMjhfZ0dnXzlBdEpQcTg?oc=5",
    "k": "폐기물 수출: 이집트와 모로코가 고철 제한에 이의를 제기함에 따라 EU가 승인 국가 목록을 연기",
-   "d": "2026-11-27"
-  },
-  {
-   "s": "AL Circle",
-   "t": "Meeting around 1.7 Mt/year of primary aluminium demand growth would require about three new 500 ktpa smelters annually",
-   "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQTmxqT1RacEUxSGc2dlRlaTdJTFV6T0tYYXR6RUxtVmNoUkQ5RC1VRUxqTGZuQmhDTjVYb0F3ZlEwSzllZXNVVmJ4MWN3SzhHUEJMQWRfTDVsdmV6aklncWotZVRWYlprNjJIOHVCaFRpa1N2UHJnMHlURlNDTFVpZzc1Ujg0Und2QmwtY3pZc0VSTVVQalJjNHA5cEt0UmNBaXNMaTMzMEFJbWVUNnB3cGVsUTBjaWoyclRrMmdIQVNDb19kYnJCMDVWSkpUR3JqVUl3Y21GRWlmZHRkTVFmaTFtRUUzM2cxcDY4YTViUFU5YlZLUG05Sg?oc=5",
-   "k": "1차 알루미늄 수요 증가분 약 170만 톤/년을 충족하려면 매년 약 3개의 신규 제련소(연간 생산량 50만 톤)가 필요합니다.",
-   "d": "2026-11-27"
-  },
-  {
-   "s": "Traders Union",
-   "t": "Weak Chinese industrial demand halts copper rally, Daniel Lacalle notes",
-   "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObGM0N2ZPSmRjZFFVTFdNS1BBUFBXekt0MXhQeU1lXzJVd0pMNVJJVjh6WE45dE1rUUE1MEdSQ2J4aGJjbVFGQkpyXzc2ZGxWZmdMX1lEdWw0Tkp1ZkZWUnRVanRSLTB1OHhiNnMwUU42bXpfZTJFR2QwZm1mbndFdFlCd081VE5NcDhv?oc=5",
-   "k": "다니엘 라칼레(Daniel Lacalle)는 중국의 부진한 산업 수요로 인해 구리 가격 상승세가 멈췄다고 지적합니다.",
    "d": "2026-11-27"
   },
   {
@@ -208,13 +215,6 @@
    "t": "Browne warns scrap metal ban will drive trade underground",
    "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWDgydGVJdlh2cloydXplWXNzLU1Pb2pyNG9QOXBOaEhxNUpUWnhSWmNDcm16MkVYXzRGTzZNWmhDWThBaGlzYUgwN3A4UVN0Ry1Fc1d2TTNTVDJjR1V5elhPUi1rNFRmUG11aW11M3RkT0NBVC0xcnk2QnlXbFNMRUJ6dHhNZ0RCRjJGRldYcGUtNkVkWnAzRm13WVBxQmNYRXhlY2dScEpqcjdrUHdBZQ?oc=5",
    "k": "브라운 장관, 고철 수입 금지 조치가 불법 거래를 조장할 것이라고 경고",
-   "d": "2026-11-27"
-  },
-  {
-   "s": "Shanghai Metals Market",
-   "t": "Copper price instability squeezes copper scrap supply, significantly dampening suppliers' willingness to sell [SMM Copper Scrap Weekly Review]",
-   "u": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQbFNJYThoajhfMklWUnl1ajlwVW9GNW1CMXZUa2FVNmtmTlpTQWgxSUZfS1ExdkU5ZGgzclNuMFU1MnZVSk9QakFXalFTTDd3bEY4N0pyUGZvQ0hsSUtXOTFfRUxIQUQwbm1OOEU3NU9WX05SQ2doRGJ6VklsQ09oT2d1cXJzeGloYkpZSG1VOHJ4Q0NCWGlXUnVKcmcwZHhxZm9UY0M1Z2NNV3B1TUo2dzNuYlYxMXhjVFZtcU03UFNEZy11OWU2N0ZiZGZjMmVJaWJlUWRGc0xTeU1DTkpQSFNRd1YzNEFTMkNrNlh6VjVSM0tnLWV1VXQyV19WODFWX3ZhS3B5Tm9SN3pJUFNvMVBxTW9KOTBXcVRJRkZzeTlOMG1RMms5LUJwMkhUT3Bxc05oOFgzRWI?oc=5",
-   "k": "구리 가격 불안정으로 인해 구리 스크랩 공급이 감소하고, 공급업체의 판매 의향이 크게 약화됨 [SMM 구리 스크랩 주간 동향]",
    "d": "2026-11-27"
   }
  ]
