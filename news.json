@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T07:55+09:00",
+ "updated": "2026-11-28T13:57+09:00",
  "items": [
   {
    "s": "BBC",
@@ -20,12 +20,6 @@
    "k": "중국, 트럼프 대통령의 새로운 관세 부과안에 대해 '필요한 조치'를 취할 권리를 보유한다고 밝혀"
   },
   {
-   "s": "MarketWatch",
-   "t": "Artificial intelligence usage is exploding, yet spending is stalling. Why a foundational rule of economics is breaking.",
-   "u": "https://www.marketwatch.com/story/artificial-intelligence-usage-is-exploding-yet-spending-is-stalling-why-a-foundational-rule-of-economics-is-breaking-9c7ad4b3?mod=mw_rss_topstories",
-   "k": "인공지능 사용이 폭발적으로 증가하고 있지만, 지출은 정체되고 있습니다. 경제학의 기본 원칙이 깨지는 이유."
-  },
-  {
    "s": "DW",
    "t": "EU-Indonesia trade deal opens new markets, but challenges remain",
    "u": "https://www.dw.com/en/eu-indonesia-trade-deal-opens-new-markets-but-challenges-remain/a-80059568?maca=en-rss-en-bus-2091-rdf",
@@ -33,33 +27,33 @@
   },
   {
    "s": "Straits Times",
-   "t": "Global economy risks hangover as growth over-reliant on AI boom: India chief economic adviser",
-   "u": "https://www.straitstimes.com/business/global-economy-risks-hangover-as-growth-over-reliant-on-ai-boom-india-chief-economic-adviser",
-   "k": "인도 수석 경제 고문, AI 붐에 대한 과도한 의존으로 인한 성장으로 인해 글로벌 경제가 후유증을 겪을 위험이 있다고 경고"
+   "t": "China’s premium puffer jacket push meets consumer resistance",
+   "u": "https://www.straitstimes.com/business/chinas-premium-puffer-jacket-push-meets-consumer-resistance",
+   "k": "중국의 프리미엄 패딩 재킷 공세에 대한 소비자 저항"
   },
   {
    "s": "Yonhap",
-   "t": "Summary of external news of North Korea this week",
-   "u": "https://en.yna.co.kr/view/AEN20261127006900315",
-   "k": "이번 주 북한 관련 대외 뉴스 요약"
+   "t": "Spy agency says monitoring developments amid speculation over N.K. leader's possible China visit",
+   "u": "https://en.yna.co.kr/view/AEN20261128000700315",
+   "k": "정보기관, 북한 지도자의 중국 방문 가능성에 대한 추측 속에서 상황을 주시하고 있다고 밝혀"
   },
   {
    "s": "Korea Herald",
-   "t": "Rescene, Aespa, BTS reveal contrasting K-pop tastes in Korea, China, Japan",
-   "u": "https://www.koreaherald.com/article/10952210",
-   "k": "Rescene, 에스파, BTS가 한국, 중국, 일본에서 상반된 K-pop 취향을 선보이다"
+   "t": "High-tech cheating fears reshape Korea’s exam halls",
+   "u": "https://www.koreaherald.com/article/10952433",
+   "k": "첨단 기술을 이용한 부정행위에 대한 우려로 한국의 시험장이 변화하고 있습니다."
   },
   {
    "s": "SCMP",
-   "t": "Sky’s the limit: Chinese woman pilot rises to airline captain decade after historic flight",
-   "u": "https://www.scmp.com/economy/article/3376019/skys-limit-chinese-woman-pilot-rises-airline-captain-decade-after-historic-flight",
-   "k": "하늘이 한계: 중국 여성 조종사가 역사적인 비행 10년 만에 항공사 기장으로 승진"
+   "t": "As convenience stores face pressure, 7-Eleven set to open largest China outlet in Kunming",
+   "u": "https://www.scmp.com/business/companies/article/3376061/convenience-stores-face-pressure-7-eleven-set-open-largest-china-outlet-kunming",
+   "k": "편의점들이 어려움을 겪는 가운데, 세븐일레븐이 쿤밍에 중국 최대 매장을 개점할 예정입니다."
   },
   {
    "s": "Economic Times",
-   "t": "India's textile exporters race the tariff clock",
-   "u": "https://economictimes.indiatimes.com/news/economy/foreign-trade/indian-textile-exporters-rush-us-shipments-to-beat-proposed-25-tariff/articleshow/136232544.cms",
-   "k": "관세 인상 시한에 맞서 달리는 인도 섬유 수출업체들"
+   "t": "Seoul monitoring signs of Kim Jong Un visit to China",
+   "u": "https://economictimes.indiatimes.com/news/international/world-news/seoul-monitoring-signs-of-possible-kim-jong-un-visit-to-china/articleshow/136237319.cms",
+   "k": "서울, 김정은 위원장의 중국 방문 징후를 주시"
   },
   {
    "s": "BBC",
@@ -81,39 +75,33 @@
   },
   {
    "s": "Straits Times",
-   "t": "Malaysia, Singapore can win bigger deals together: Economy Minister Akmal",
-   "u": "https://www.straitstimes.com/business/malaysia-singapore-can-win-bigger-deals-together-economy-minister-akmal",
-   "k": "말레이시아 경제부 장관 아크말, \"말레이시아와 싱가포르가 함께 더 큰 거래를 성사시킬 수 있다\"고 밝혀"
+   "t": "Global economy risks hangover as growth over-reliant on AI boom: India chief economic adviser",
+   "u": "https://www.straitstimes.com/business/global-economy-risks-hangover-as-growth-over-reliant-on-ai-boom-india-chief-economic-adviser",
+   "k": "인도 수석 경제 고문, AI 붐에 대한 과도한 의존으로 인한 성장으로 인해 글로벌 경제가 후유증을 겪을 위험이 있다고 경고"
   },
   {
    "s": "Yonhap",
-   "t": "Summary of domestic news in North Korea this week",
-   "u": "https://en.yna.co.kr/view/AEN20261127006800315",
-   "k": "이번 주 북한 국내 뉴스 요약"
+   "t": "N. Korea, Russia hold economic cooperation meeting, agree to boost joint projects",
+   "u": "https://en.yna.co.kr/view/AEN20261128000500315",
+   "k": "북한과 러시아, 경제 협력 회담 개최 및 공동 프로젝트 확대에 합의"
   },
   {
    "s": "Korea Herald",
-   "t": "N. Korean troops breach military demarcation line some 40 times since October",
-   "u": "https://www.koreaherald.com/article/10952040",
-   "k": "북한군, 10월 이후 군사분계선 40여 차례 침범"
+   "t": "Korea Post confirms data breach affecting at least 113,000 customers",
+   "u": "https://www.koreaherald.com/article/10952405",
+   "k": "한국우정공사, 최소 113,000명의 고객에게 영향을 미치는 데이터 유출 확인"
   },
   {
    "s": "SCMP",
-   "t": "Failed California billionaire tax proposal gets close look in China tax circles",
-   "u": "https://www.scmp.com/business/china-business/article/3376043/failed-california-billionaire-tax-proposal-gets-close-look-china-tax-circles",
-   "k": "실패한 캘리포니아 억만장자 세금 제안, 중국 세무계에서 면밀히 검토"
+   "t": "Sky’s the limit: Chinese woman pilot rises to airline captain decade after historic flight",
+   "u": "https://www.scmp.com/economy/article/3376019/skys-limit-chinese-woman-pilot-rises-airline-captain-decade-after-historic-flight",
+   "k": "하늘이 한계: 중국 여성 조종사가 역사적인 비행 10년 만에 항공사 기장으로 승진"
   },
   {
    "s": "Economic Times",
-   "t": "US goods trade deficit widens sharply in October",
-   "u": "https://economictimes.indiatimes.com/news/international/world-news/us-goods-trade-deficit-widens-sharply-in-october/articleshow/136225986.cms",
-   "k": "10월 미국 상품 무역 적자 폭이 크게 확대"
-  },
-  {
-   "s": "BBC",
-   "t": "US announces new tariffs on host of countries including China",
-   "u": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o",
-   "k": "미국, 중국을 포함한 여러 국가에 대한 새로운 관세 부과 발표"
+   "t": "US shoppers brave weather and inflation for good deals",
+   "u": "https://economictimes.indiatimes.com/news/international/world-news/us-shoppers-brave-bad-weather-and-inflation-to-chase-black-friday-bargains/articleshow/136236252.cms",
+   "k": "미국 쇼핑객들은 좋은 상품을 구매하기 위해 날씨와 인플레이션을 감수합니다."
   },
   {
    "s": "DW",
@@ -123,35 +111,68 @@
   },
   {
    "s": "Straits Times",
-   "t": "Asian shares find footing after bruising month; US dollar set for third monthly gain",
-   "u": "https://www.straitstimes.com/business/asian-shares-find-footing-after-bruising-month-us-dollar-set-for-third-monthly-gain",
-   "k": "아시아 증시, 한 달간의 하락세 이후 안정세 찾음. 미국 달러화, 3개월 연속 상승세 전망"
+   "t": "Malaysia, Singapore can win bigger deals together: Economy Minister Akmal",
+   "u": "https://www.straitstimes.com/business/malaysia-singapore-can-win-bigger-deals-together-economy-minister-akmal",
+   "k": "말레이시아 경제부 장관 아크말, \"말레이시아와 싱가포르가 함께 더 큰 거래를 성사시킬 수 있다\"고 밝혀"
   },
   {
    "s": "Yonhap",
-   "t": "Key developments on North Korea this week",
-   "u": "https://en.yna.co.kr/view/AEN20261127006700315",
-   "k": "이번 주 북한 관련 주요 동향"
-  },
-  {
-   "s": "Korea Herald",
-   "t": "South Korea introduces kimchi-making to diplomats from about 60 countries",
-   "u": "https://www.koreaherald.com/article/10952006",
-   "k": "한국, 약 60개국 외교관들에게 김치 담그기 소개"
+   "t": "Top headlines in major S. Korean newspapers",
+   "u": "https://en.yna.co.kr/view/AEN20261128000400315",
+   "k": "주요 한국 신문의 주요 헤드라인"
   },
   {
    "s": "SCMP",
-   "t": "Hong Kong gold imports surge 24.4% in October to 4-month high on lower bullion prices",
-   "u": "https://www.scmp.com/business/commodities/article/3376000/hong-kong-gold-imports-surge-244-october-four-month-high-lower-bullion-prices",
-   "k": "홍콩의 금 수입, 10월에 24.4% 급증하며 4개월 만에 최고치 기록... 금괴 가격 하락 영향"
+   "t": "Failed California billionaire tax proposal gets close look in China tax circles",
+   "u": "https://www.scmp.com/business/china-business/article/3376043/failed-california-billionaire-tax-proposal-gets-close-look-china-tax-circles",
+   "k": "실패한 캘리포니아 억만장자 세금 제안, 중국 세무계에서 면밀히 검토"
+  },
+  {
+   "s": "Economic Times",
+   "t": "India's textile exporters race the tariff clock",
+   "u": "https://economictimes.indiatimes.com/news/economy/foreign-trade/indian-textile-exporters-rush-us-shipments-to-beat-proposed-25-tariff/articleshow/136232544.cms",
+   "k": "관세 인상 시한에 맞서 달리는 인도 섬유 수출업체들"
+  },
+  {
+   "s": "DW",
+   "t": "Iran balances ties with China and Russia as Trump ramps up pressure",
+   "u": "https://www.dw.com/en/iran-balances-ties-with-china-and-russia-as-trump-ramps-up-pressure/a-79979920?maca=en-rss-en-bus-2091-rdf",
+   "k": "트럼프 대통령의 압박이 거세지는 가운데 이란, 중국 및 러시아와의 관계 균형 유지"
+  },
+  {
+   "s": "Straits Times",
+   "t": "Asian shares find footing after bruising month; US dollar set for third monthly gain",
+   "u": "https://www.straitstimes.com/business/asian-shares-find-footing-after-bruising-month-us-dollar-set-for-third-monthly-gain",
+   "k": "아시아 증시, 한 달간의 하락세 이후 안정세 찾음. 미국 달러화, 3개월 연속 상승세 전망"
   }
  ],
  "metals": [
   {
-   "s": "Mining.com",
-   "t": "Copper price jumps most since January as short sellers retreat",
-   "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTDZjaFhudjR3WW5WQmNWV2dUZzQyWXEyNjFnQ1VYZFJzRkhfUmlhb2pHX2NCU0h0Z1dPdkpiYWJfLWR6TWNBa1dBNXY4aUNJYnRfOWUycmdvS2szeFdqTkxsRXlWNWVxRVE2a1J6NEdMRWlzaFVlVVZLaG5HX0RwWkFqVmkwYjZuMzlCLXQ5WQ?oc=5",
-   "k": "공매도자들이 물러나면서 구리 가격이 1월 이후 가장 큰 폭으로 상승",
+   "s": "Briefs Finance",
+   "t": "LME Steps in After Historic Aluminum Short Squeeze",
+   "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQODlQaTFRcWVUM2VxR0dMVXhud0pRVjJfZkFJeW9DcU1nUGx0cEpaX3RiVzliT2QzTnVUU1JXeHRQYVkwQ2pqbTN3bUJ1b3NqeTVSRGQyMFhRVWNKRHk3QlEtQ050Y292ZkFnNXM5TFBUaWRfZzVpT2xMc2lqcDVsYlh6ZWk?oc=5",
+   "k": "LME, 사상 초유의 알루미늄 숏 스퀴즈 사태 이후 개입",
+   "d": "2026-11-28"
+  },
+  {
+   "s": "TradingView",
+   "t": "Price to sales forward of CRITICAL COPPER MNG CORP – OTC:CCCUF",
+   "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ2lQS0VON1JzSEI1Z1poUTRDSkdVTTFDcmpVN3BhYmZfeXdtTk96S2xlVEVwYi03eTJaSDdVYnRic3hqMVU5ZDV4ZWlfRE9tSUpsaGpCaUhaMG1hdUFaMlVPb0Z3V2wwWTQxaDRDZnROZTF1dk4yWno2eXNFdjlIanN0YWVrZ2gxLW9nTUtjU2pOZnNBbUhwRHE3OA?oc=5",
+   "k": "CRITICAL COPPER MNG CORP – OTC:CCCUF의 매출 대비 주가 선행 지수",
+   "d": "2026-11-28"
+  },
+  {
+   "s": "NAI500",
+   "t": "Copper Rallies Most Since January as Traders Rush to Cover Short Positions",
+   "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdWtkRmZ4VFk2Q28zQjJ6a2JwQ1pCamRzeDhOYWNyTzIxdzJWWDA0ZThtYUoxQ0tpRXkyUllsa0Q0ZUVQbWMxanRtT0hWTUpGWjVncDYwSG5uUFdnOEFUNlVGaUJ5RnVQRUFKRks2ZUluR3RRaEExb2dHUExrdWxCdXpaaC1uZFhTczk0ZXBHSlctQ3M5NFpsMF9QcWIxQ3d4YktLU0xlYmlDWWM?oc=5",
+   "k": "트레이더들이 공매도 포지션을 서둘러 청산하면서 1월 이후 가장 큰 폭으로 상승한 구리 가격",
+   "d": "2026-11-28"
+  },
+  {
+   "s": "BigGo Finance",
+   "t": "Aluminum Cash Premiums Surge Past $400 a Ton as LME Rushes Out New Rules to Defuse Short Squeeze",
+   "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE91TlJLTW82aV9Tclo4VFlsX1NGWlZPV0RJVmVoc0NOUDNfTl90aW9aYk9ickw3ajNBMlVydnUwY0dXbDE2bVhnblVGYnJIeGo0aEdmZWliU3hSUnNZdXZWMzd3YjFwRHp3dWNyRlkwZzRIUG1QNGc?oc=5",
+   "k": "LME가 숏 스퀴즈를 해소하기 위해 새로운 규정을 서둘러 발표하면서 알루미늄 현물 프리미엄이 톤당 400달러를 넘어 급등",
    "d": "2026-11-28"
   },
   {
@@ -162,31 +183,17 @@
    "d": "2026-11-28"
   },
   {
-   "s": "Robinhood",
-   "t": "November 27, 2026: Copper 15 min · 2:15–2:30 PM EST Metals Prediction Market",
-   "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeldaVkEyekVNdWk1S0lDYjVweXEtWWxpNUt3VUVEc3ZvM2pmSlA3N2R6SF9qY0tKZmxTWTBUaktmMWFXWm5hSlpGRWJCbkJKb3R6RzBCODROT1ZfdzF0ZS15eDVFNVpaMjY2RVJ1OXkyWVVCUTJVRlBqdDVxcURMMEx0YjFlY0xrOXcyRkFYQng2a2VaLUJYelVvSkhZZWJlVmpr?oc=5",
-   "k": "2026년 11월 27일: 구리 15분 · 오후 2:15~2:30(미 동부 표준시) 금속 예측 시장",
+   "s": "Mining.com",
+   "t": "Copper price jumps most since January as short sellers retreat",
+   "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTDZjaFhudjR3WW5WQmNWV2dUZzQyWXEyNjFnQ1VYZFJzRkhfUmlhb2pHX2NCU0h0Z1dPdkpiYWJfLWR6TWNBa1dBNXY4aUNJYnRfOWUycmdvS2szeFdqTkxsRXlWNWVxRVE2a1J6NEdMRWlzaFVlVVZLaG5HX0RwWkFqVmkwYjZuMzlCLXQ5WQ?oc=5",
+   "k": "공매도자들이 물러나면서 구리 가격이 1월 이후 가장 큰 폭으로 상승",
    "d": "2026-11-28"
   },
   {
-   "s": "Robinhood",
-   "t": "Copper Price November 27 2026",
-   "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbzdHQVFFeDlyZF9vSm9tMWtVQnlFd2ZfQTRYVEQ1SVFyYTdVV3AyOTBJb05OQkxVdENNN1V3SHplMXVWMVhrMExOQ0Nkb1NfQ0t0aUJGMzhwQWMzd18zcUJ2dTBqMm5NdlJEcFZSUFhZMTJrSkJlS3BrdGl6aXdIcUp3akJQV185WG9rc01UUUp4ZnktWjdjNkp3azV3TUJYYldUbWl3?oc=5",
-   "k": "2026년 11월 27일 구리 가격",
-   "d": "2026-11-28"
-  },
-  {
-   "s": "Digg",
-   "t": "LME intervention eases aluminum squeeze, but stocks remain low, CNBC reports",
-   "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53c3dvb0NQNlZBcDl0cGdDbTJDQTJRYWw4bkZES1MzQjNUZWQwRkJsQThUdnZJd0ZqZUNISGZMcEd2Z2FQVlpxQkhkZHlnSUh1REE?oc=5",
-   "k": "LME의 개입으로 알루미늄 수급난이 완화되었지만, 재고는 여전히 낮은 수준이라고 CNBC가 보도했습니다.",
-   "d": "2026-11-28"
-  },
-  {
-   "s": "Traders Union",
-   "t": "Renewed trade tariff uncertainty and inflation concerns deepen risk context for copper futures",
-   "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUzZNR0ZqUmJ1dUhEOW9FRVlGeTVMRWpiWmNMMXFwa1k4NUY1T1hXMTFqNkR6clZTVVVDRlpucHFSdWRoeDlneUtoZ0EzUDQ0NVd3V3NVWURPbnlncG1JbUtnQ1I3QVE1RmlqNnpBYzdKeHdyUjBFZ3BiSTM2XzRKM3Q3WHJPdjl6bTN2NWJxOA?oc=5",
-   "k": "무역 관세 불확실성 재연 및 인플레이션 우려로 구리 선물 시장의 위험 요인 심화",
+   "s": "Discovery Alert",
+   "t": "Section 232 Steel Tariffs Moved Mexico’s US Orders to Asia",
+   "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVmYtV091QlNwVGZVNWVKY19hVmxpRm44R0RQbU0xOXlSX0M2dzFXM09BTVczdEVIX1dwck45Q1NYYkRVMWRwWmxoQnZ1czFoTmtybWlJeVJmQ3hXSjRDclctSjJ5NHZ2RW5RSUZ0NFU2Mkt2Wi1zUEs1ZzlsLUdDcFVrNW8zT19TMHVwQ1RVWUJYelJCSWc?oc=5",
+   "k": "232조 강철 관세로 인해 멕시코의 미국 주문이 아시아로 이동",
    "d": "2026-11-28"
   },
   {
@@ -208,13 +215,6 @@
    "t": "Aluminum scrap price spread consolidates in a tug-of-war, limiting upside flexibility of aluminum scrap [Aluminum Scrap Daily Review]",
    "u": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNSWIydjBveWptZjg5Wm81d3paTHAwb3g0M1pOQ01iTmVyc2VxbjBRQXN0LXJVUUlNSGtZdDJyQnl6RTBmTkNTVS1TSUpCVEhEUGcxT0k2TEgtbmZybjdNLVJ6VGxIbG5JRXhRYnZKbGU4cUpjbGJxMUo0M2daS2hNQlJVTjYyMTBINUFKV0N6QkpjWXpzUlRsZUpFTGZxZjA3ckFqQTIwWjV4N1d5VTIzdkgxcFU2X0k2TVdfLXRKM2FPdnVXdDdQZTc2UzlHUlgyRmhCYkhMbEJkVHdmV2s2WDljbjcwTkduQnpjWEJNbzdsLUtkTGRUNWRldXJLNTdWRld5T2tldkpldy03ckpDYzJ3U183ZXJTb2xVV056SFVTcjV5RTExRy1rYkpTUQ?oc=5",
    "k": "알루미늄 고철 가격 스프레드가 줄다리기를 하며 안정세를 보이고 있어 알루미늄 고철 가격의 상승 유연성이 제한되고 있음 [알루미늄 고철 일일 동향]",
-   "d": "2026-11-27"
-  },
-  {
-   "s": "Trinidad Guardian",
-   "t": "Browne warns scrap metal ban will drive trade underground",
-   "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWDgydGVJdlh2cloydXplWXNzLU1Pb2pyNG9QOXBOaEhxNUpUWnhSWmNDcm16MkVYXzRGTzZNWmhDWThBaGlzYUgwN3A4UVN0Ry1Fc1d2TTNTVDJjR1V5elhPUi1rNFRmUG11aW11M3RkT0NBVC0xcnk2QnlXbFNMRUJ6dHhNZ0RCRjJGRldYcGUtNkVkWnAzRm13WVBxQmNYRXhlY2dScEpqcjdrUHdBZQ?oc=5",
-   "k": "브라운 장관, 고철 수입 금지 조치가 불법 거래를 조장할 것이라고 경고",
    "d": "2026-11-27"
   }
  ]
